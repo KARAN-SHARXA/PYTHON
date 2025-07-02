@@ -1,0 +1,177 @@
+🔍 1. Advanced Data Types – Viva/Interview Questions
+
+> Q1. What’s the difference between list, tuple, set, and dict?
+A:
+
+
+
+list: Ordered, mutable, allows duplicates
+
+tuple: Ordered, immutable, allows duplicates
+
+set: Unordered, mutable, no duplicates
+
+dict: Key-value pairs, mutable, keys must be unique
+
+
+> Q2. How are strings stored in memory?
+A: Strings are stored as a sequence of Unicode characters, and being immutable, each modification creates a new object.
+
+
+
+> Q3. What is type casting? Give an example.
+A: Converting from one type to another.
+
+
+
+a = "123"
+b = int(a)  # type casting from str to int
+
+> Q4. How is memory managed in Python for data types?
+A: Python uses automatic memory management with reference counting and garbage collection.
+
+
+
+> Q5. What is the use of isinstance() vs type()?
+A:
+
+
+
+type() returns the exact type.
+
+isinstance() checks type including inheritance:
+
+
+isinstance(True, int)  # True
+type(True) == int      # True
+
+
+---
+
+🔍 2. Advanced Variable Concepts
+
+> Q1. What are global and local variables in Python?
+A:
+
+
+
+Global: Declared outside functions and accessible globally.
+
+Local: Declared inside functions and accessible only within them.
+
+
+> Q2. What is the use of the global keyword?
+A: It allows you to modify a global variable inside a function.
+
+
+
+x = 10
+def change():
+    global x
+    x = 20
+
+> Q3. What is variable shadowing?
+A: When a local variable has the same name as a global one, the local one shadows (overrides) the global within its scope.
+
+
+
+> Q4. What is dynamic typing in Python?
+A: You can assign a variable to any type, and its type can change during runtime.
+
+
+
+x = 5       # int
+x = "five"  # now str
+
+> Q5. What is a memory leak and can it happen in Python?
+A: Rare, but yes — it can happen when circular references are not properly cleaned by the garbage collector.
+
+
+
+
+---
+
+🔍 3. Advanced Operators – Viva/Interview Questions
+
+> Q1. What is the difference between is and == with an example?
+A:
+
+
+
+a = [1, 2]
+b = [1, 2]
+print(a == b)  # True (values are equal)
+print(a is b)  # False (different memory locations)
+
+> Q2. Explain short-circuiting in logical operators.
+A: In and and or, Python stops evaluating as soon as the result is determined.
+
+
+
+True or print("Not printed")
+False and print("Not printed")
+
+> Q3. What are identity and membership operators in Python?
+A:
+
+
+
+Identity: is, is not
+
+Membership: in, not in
+
+
+> Q4. What does the expression not (a and b) mean?
+A: It returns True if either a or b is False.
+
+
+
+> Q5. Explain bitwise operators with an example.
+A:
+
+
+
+a = 5      # 0101
+b = 3      # 0011
+print(a & b)  # 0001 = 1
+print(a | b)  # 0111 = 7
+print(a ^ b)  # 0110 = 6
+
+
+---
+
+🔍 4. Advanced Conditional Statements – Viva/Interview Questions
+
+> Q1. What is the ternary (inline if) operator in Python?
+A:
+
+
+
+x = 10
+result = "Even" if x % 2 == 0 else "Odd"
+
+> Q2. What is the difference between if x: and if x == True:?
+A: if x: checks if x is truthy, while if x == True: checks for an exact boolean True.
+
+
+
+> Q3. What is the use of pass statement inside conditionals?
+A: pass is used as a placeholder to define empty blocks of code.
+
+
+
+if True:
+    pass
+
+> Q4. Can elif and else exist without if?
+A: No. They must follow an if statement.
+
+
+
+> Q5. What’s the maximum number of elif blocks allowed?
+A: There is no fixed limit, but readability suffers if there are too many.
+
+
+
+
+---

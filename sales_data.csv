@@ -1,0 +1,9 @@
+Date,Product,Category,Units_Sold,Unit_Price,Total_Sales,City
+2025-07-01,Laptop,Electronics,5,55000,275000,Delhi
+2025-07-01,Headphones,Accessories,15,1500,22500,Mumbai
+2025-07-01,Smartphone,Electronics,8,30000,240000,Bangalore
+2025-07-02,Laptop,Electronics,3,55000,165000,Chennai
+2025-07-02,Mouse,Accessories,20,500,10000,Delhi
+2025-07-03,Keyboard,Accessories,12,800,9600,Mumbai
+2025-07-03,Smartphone,Electronics,10,30000,300000,Bangalore
+2025-07-03,Power Bank,Accessories,18,1200,21600,Kolkata

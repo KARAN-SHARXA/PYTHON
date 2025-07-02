@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Gender,City,Product,Category,Price,Quantity,Purchase_Date,Payment_Mode
+ORD1000,Customer_0,Other,Hyderabad,Camera,Gadgets,6596.52,1,2023-01-01,Wallet
+ORD1001,Customer_1,Male,Chennai,Camera,Accessories,35699.95,5,2023-01-02,UPI
+ORD1002,Customer_2,Male,Hyderabad,Keyboard,Gadgets,,3,2023-01-03,Wallet
+ORD1003,Customer_3,Other,Ahmedabad,Laptop,Electronics,19072.03,2,2023-01-04,Cash
+ORD1004,Customer_4,Female,Ahmedabad,Headphones,Electronics,32195.89,4,2023-01-05,Cash
+ORD1005,Customer_5,Male,Kolkata,Charger,Accessories,38676.86,5,2023-01-06,Cash
+ORD1006,Customer_6,Male,Hyderabad,Smartphone,Accessories,31345.17,4,2023-01-07,Debit Card
+ORD1007,Customer_7,Male,Kolkata,Keyboard,Accessories,29899.24,4,2023-01-08,Wallet
+ORD1008,Customer_8,Other,Delhi,Monitor,Gadgets,2874.04,2,2023-01-09,Credit Card
+ORD1009,Customer_9,Male,Mumbai,Charger,Electronics,5851.62,2,2023-01-10,UPI
+ORD1010,Customer_10,Other,Chennai,Monitor,Accessories,41887.94,4,2023-01-11,Wallet
+ORD1011,Customer_11,Other,Chennai,Laptop,Gadgets,2887.64,4,2023-01-12,Debit Card
+ORD1012,Customer_12,Other,Kolkata,Charger,Gadgets,6231.6,2,2023-01-13,Credit Card
+ORD1013,,Male,Mumbai,Laptop,Gadgets,22493.56,3,2023-01-14,UPI
+ORD1014,Customer_14,Other,Bangalore,Mouse,Electronics,6617.96,1,2023-01-15,Credit Card
+ORD1015,Customer_15,Female,Chennai,Monitor,Accessories,13010.55,4,2023-01-16,UPI
+ORD1016,Customer_16,Male,Bangalore,Keyboard,Accessories,35242.48,2,2023-01-17,Cash
+ORD1017,Customer_17,Male, ,Headphones,Gadgets,,5,2023-01-18,UPI
+ORD1018,Customer_18,Male,Bangalore,Charger,Accessories,34444.13,5,2023-01-19,UPI
+ORD1019,Customer_19,Male,Delhi,Camera,Electronics,960.58,3,2023-01-20,Debit Card
+ORD1020,Customer_20,Male,Hyderabad,Keyboard,Accessories,21333.14,3,2023-01-21,Debit Card
+ORD1021,Customer_21,Other,Ahmedabad,Headphones,Gadgets,5498.5,5,2023-01-22,Debit Card
+ORD1022,Customer_22,Other,Ahmedabad,Smartphone,Electronics,26255.31,3,2023-01-23,Wallet
+ORD1023,Customer_23,Male,Kolkata,Headphones,Accessories,31328.49,4,2023-01-24,Cash
+ORD1024,Customer_24,Other,Delhi,Charger,Electronics,35185.95,2,2023-01-25,Cash
+ORD1025,Customer_25,Male,Chennai,Monitor,Accessories,21231.87,1,2023-01-26,UPI
+ORD1026,Customer_26,Other,Kolkata,Monitor,Electronics,44981.79,2,2023-01-27,Debit Card
+ORD1027,Customer_27,Other,Kolkata,Monitor,Gadgets,,2,2023-01-28,Cash
+ORD1028,Customer_28,Other,Ahmedabad,Smartphone,Gadgets,31076.05,3,2023-01-29,Cash
+ORD1029,Customer_29,Other,Mumbai,Mouse,Gadgets,,1,2023-01-30,UPI
+ORD1030,Customer_30,Female,Chennai,Charger,Electronics,39345.62,4,2023-01-31,UPI
+ORD1031,Customer_31,Male,Kolkata,Laptop,Electronics,25138.08,5,2023-02-01,Credit Card
+ORD1032,Customer_32,Female,Chennai,Laptop,Gadgets,30645.59,4,2023-02-02,Credit Card
+ORD1033,Customer_33,Other,Hyderabad,Laptop,Gadgets,39008.97,3,2023-02-03,UPI
+ORD1034,Customer_34,Female,Mumbai,Smartphone,Electronics,41659.19,5,2023-02-04,Credit Card
+ORD1035,Customer_35,Male,Chennai,Monitor,Electronics,48669.43,4,2023-02-05,Cash
+ORD1036,Customer_36,Male,Bangalore,Camera,Electronics,18217.13,2,2023-02-06,UPI
+ORD1037,Customer_37,Other,Kolkata,Camera,Electronics,20782.93,3,2023-02-07,UPI
+ORD1038,Customer_38,Female,Bangalore,Smartphone,Electronics,8438.49,1,2023-02-08,Debit Card
+ORD1039,Customer_39,Female,Mumbai,Smartphone,Accessories,27632.87,2,2023-02-09,Cash
+ORD1040,Customer_40,Female,Delhi,Monitor,Accessories,45562.65,1,2023-02-10,Cash
+ORD1041,Customer_41,Male,Bangalore,Monitor,Accessories,34566.09,5,2023-02-11,Wallet
+ORD1042,Customer_42,Male,Kolkata,Smartphone,Electronics,24292.87,1,2023-02-12,Wallet
+ORD1043,Customer_43,Female,Kolkata,Charger,Electronics,,2,2023-02-13,Debit Card
+ORD1044,Customer_44,Male,Ahmedabad,Keyboard,Electronics,1131.1,1,2023-02-14,Wallet
+ORD1045,Customer_45,Male,Mumbai,Monitor,Gadgets,4905.64,3,2023-02-15,Credit Card
+ORD1046,Customer_46,Female,Ahmedabad,Camera,Gadgets,5966.33,3,2023-02-16,UPI
+ORD1047,Customer_47,Male,Kolkata,Keyboard,Gadgets,28920.56,2,2023-02-17,Credit Card
+ORD1048,Customer_48,Female,Hyderabad,Camera,Gadgets,24958.15,4,2023-02-18,Cash
+ORD1049,Customer_49,Female,Kolkata,Laptop,Accessories,,1,2023-02-19,Wallet
+ORD1050,Customer_50,Other,Ahmedabad,Monitor,Electronics,39086.55,2,2023-02-20,Credit Card
+ORD1051,Customer_51,Female,Ahmedabad,Monitor,Accessories,4214.89,1,2023-02-21,Cash
+ORD1052,Customer_52,Male,Mumbai,Headphones,Electronics,36317.02,2,2023-02-22,Wallet
+ORD1053,Customer_53,Other,Delhi,Charger,Accessories,45286.58,1,2023-02-23,UPI
+ORD1054,Customer_54,Female,Hyderabad,Keyboard,Gadgets,,4,2023-02-24,UPI
+ORD1055,Customer_55,Other,Pune,Laptop,Accessories,23109.19,2,2023-02-25,Wallet
+ORD1056,Customer_56,Male,Kolkata,Camera,Accessories,48875.9,3,2023-02-26,UPI
+ORD1057,Customer_57,Female,Delhi,Keyboard,Electronics,13574.19,4,2023-02-27,Debit Card
+ORD1058,Customer_58,Male,Mumbai,Mouse,Gadgets,2978.97,3,2023-02-28,Wallet
+ORD1059,Customer_59,Other,Chennai,Laptop,Accessories,,4,2023-03-01,Debit Card
+ORD1060,Customer_60,Female,Delhi,Camera,Electronics,43769.95,3,2023-03-02,Wallet
+ORD1061,Customer_61,Other,Kolkata,Smartphone,Gadgets,42686.31,4,2023-03-03,Debit Card
+ORD1062,Customer_62,Other,Delhi,Charger,Gadgets,18330.63,1,2023-03-04,UPI
+ORD1063,Customer_63,Female,Bangalore,Smartphone,Electronics,33999.94,3,2023-03-05,UPI
+ORD1064,Customer_64,Other,Ahmedabad,Mouse,Electronics,21586.76,1,2023-03-06,Credit Card
+ORD1065,Customer_65,Male,Ahmedabad,Laptop,Electronics,6237.1,2,2023-03-07,Cash
+ORD1066,Customer_66,Other,Kolkata,Headphones,Gadgets,42636.67,1,2023-03-08,Debit Card
+ORD1067,Customer_67,Male,Bangalore,Mouse,Electronics,44569.45,3,2023-03-09,Wallet
+ORD1068,Customer_68,Male,Hyderabad,Laptop,Accessories,,4,2023-03-10,UPI
+ORD1069,Customer_69,Other,Ahmedabad,Camera,Electronics,7350.52,1,2023-03-11,UPI
+ORD1070,Customer_70,Male,Mumbai,Monitor,Accessories,32536.33,5,2023-03-12,Wallet
+ORD1071,Customer_71,Female,Ahmedabad,Charger,Accessories,16768.71,4,2023-03-13,Cash
+ORD1072,Customer_72,Male,Pune,Smartphone,Accessories,44779.12,2,2023-03-14,Wallet
+ORD1073,Customer_73,Male,Hyderabad,Charger,Accessories,47776.91,2,2023-03-15,Debit Card
+ORD1074,Customer_74,Male,Pune,Mouse,Electronics,13781.32,3,2023-03-16,Debit Card
+ORD1075,Customer_75,Female,Pune,Charger,Gadgets,36786.86,4,2023-03-17,Credit Card
+ORD1076,Customer_76,Female,Mumbai,Camera,Accessories,18944.8,1,2023-03-18,Wallet
+ORD1077,Customer_77,Female,Bangalore,Laptop,Electronics,17464.77,1,2023-03-19,UPI
+ORD1078,,Other, ,Smartphone,Accessories,6134.68,2,2023-03-20,Credit Card
+ORD1079,Customer_79,Female,Hyderabad,Mouse,Electronics,20312.39,4,2023-03-21,Wallet
+ORD1080,Customer_80,Male,Ahmedabad,Monitor,Accessories,23098.66,4,2023-03-22,Wallet
+ORD1081,Customer_81,Female,Kolkata,Camera,Gadgets,41867.56,2,2023-03-23,UPI
+ORD1082,Customer_82,Female,Hyderabad,Charger,Accessories,34650.17,1,2023-03-24,Cash
+ORD1083,Customer_83,Male,Delhi,Monitor,Gadgets,24173.13,2,2023-03-25,Wallet
+ORD1084,Customer_84,Other,Ahmedabad,Smartphone,Gadgets,21376.12,4,2023-03-26,Credit Card
+ORD1085,Customer_85,Female,Mumbai,Camera,Electronics,44363.13,1,2023-03-27,UPI
+ORD1086,Customer_86,Other,Pune,Monitor,Accessories,8755.55,5,2023-03-28,Debit Card
+ORD1087,Customer_87,Other,Kolkata,Monitor,Accessories,7059.32,2,2023-03-29,Cash
+ORD1088,Customer_88,Other,Pune,Keyboard,Gadgets,36457.35,4,2023-03-30,UPI
+ORD1089,Customer_89,Male,Mumbai,Camera,Accessories,49087.67,4,2023-03-31,Credit Card
+ORD1090,Customer_90,Other,Hyderabad,Mouse,Electronics,42295.32,3,2023-04-01,Wallet
+ORD1091,Customer_91,Other,Delhi,Mouse,Gadgets,5633.8,3,2023-04-02,Credit Card
+ORD1092,Customer_92,Male,Ahmedabad,Keyboard,Gadgets,45605.72,2,2023-04-03,Wallet
+ORD1093,Customer_93,Other,Hyderabad,Keyboard,Electronics,24392.41,1,2023-04-04,UPI
+ORD1094,Customer_94,Other,Delhi,Mouse,Electronics,28662.7,5,2023-04-05,Cash
+ORD1095,Customer_95,Male,Chennai,Keyboard,Electronics,22189.06,5,2023-04-06,UPI
+ORD1096,,Male,Pune,Keyboard,Accessories,30760.5,1,2023-04-07,Credit Card
+ORD1097,Customer_97,Female,Ahmedabad,Mouse,Electronics,39068.63,3,2023-04-08,Credit Card
+ORD1098,,Female,Ahmedabad,Camera,Electronics,30762.24,4,2023-04-09,Debit Card
+ORD1099,Customer_99,Female,Delhi,Monitor,Gadgets,43197.5,3,2023-04-10,Debit Card
+ORD1100,Customer_100,Other,Chennai,Camera,Accessories,44057.54,2,2023-04-11,Wallet
+ORD1101,Customer_101,Other,Kolkata,Monitor,Gadgets,36500.29,3,2023-04-12,Credit Card
+ORD1102,Customer_102,Other,Bangalore,Keyboard,Gadgets,44642.26,1,2023-04-13,Debit Card
+ORD1103,Customer_103,Male,Kolkata,Keyboard,Electronics,24412.44,2,2023-04-14,Debit Card
+ORD1104,,Other,Ahmedabad,Headphones,Accessories,24662.08,1,2023-04-15,UPI
+ORD1105,Customer_105,Female,Ahmedabad,Charger,Electronics,44435.9,2,2023-04-16,Wallet
+ORD1106,Customer_106,Male,Mumbai,Charger,Gadgets,22314.05,4,2023-04-17,Cash
+ORD1107,Customer_107,Male,Delhi,Monitor,Accessories,3635.13,3,2023-04-18,UPI
+ORD1108,Customer_108,Male,Chennai,Smartphone,Gadgets,32921.19,1,2023-04-19,Wallet
+ORD1109,Customer_109,Female,Bangalore,Keyboard,Gadgets,1111.83,2,2023-04-20,Wallet
+ORD1110,Customer_110,Female,Kolkata,Laptop,Accessories,43482.45,3,2023-04-21,UPI
+ORD1111,Customer_111,Female,Delhi,Keyboard,Electronics,26478.49,5,2023-04-22,Debit Card
+ORD1112,Customer_112,Male,Hyderabad,Headphones,Electronics,37309.38,1,2023-04-23,Debit Card
+ORD1113,Customer_113,Male,Mumbai,Monitor,Gadgets,36326.79,4,2023-04-24,Cash
+ORD1114,Customer_114,Other,Chennai,Camera,Electronics,11587.25,2,2023-04-25,Cash
+ORD1115,Customer_115,Other,Mumbai,Keyboard,Accessories,47810.19,1,2023-04-26,Wallet
+ORD1116,Customer_116,Female, ,Camera,Accessories,43720.61,1,2023-04-27,Cash
+ORD1117,Customer_117,Male,Mumbai,Mouse,Electronics,26195.43,5,2023-04-28,UPI
+ORD1118,Customer_118,Other,Bangalore,Mouse,Electronics,34567.96,4,2023-04-29,Cash
+ORD1119,Customer_119,Female, ,Keyboard,Gadgets,31102.83,5,2023-04-30,Credit Card
+ORD1120,Customer_120,Female,Kolkata,Keyboard,Accessories,21925.97,2,2023-05-01,Wallet
+ORD1121,Customer_121,Other,Kolkata,Smartphone,Electronics,36469.27,3,2023-05-02,Credit Card
+ORD1122,Customer_122,Female,Hyderabad,Headphones,Electronics,,1,2023-05-03,Wallet
+ORD1123,Customer_123,Male,Ahmedabad,Mouse,Electronics,33353.68,2,2023-05-04,Wallet
+ORD1124,Customer_124,Female,Ahmedabad,Mouse,Gadgets,32249.52,2,2023-05-05,UPI
+ORD1125,Customer_125,Male,Chennai,Laptop,Accessories,7858.4,4,2023-05-06,Debit Card
+ORD1126,Customer_126,Male,Ahmedabad,Mouse,Gadgets,41408.67,1,2023-05-07,Cash
+ORD1127,Customer_127,Other,Bangalore,Mouse,Accessories,,5,2023-05-08,Credit Card
+ORD1128,Customer_128,Other,Hyderabad,Laptop,Accessories,30839.24,3,2023-05-09,Cash
+ORD1129,Customer_129,Other,Chennai,Headphones,Gadgets,1076.42,1,2023-05-10,Wallet
+ORD1130,Customer_130,Female,Bangalore,Charger,Electronics,46751.39,1,2023-05-11,Credit Card
+ORD1131,Customer_131,Other,Mumbai,Monitor,Gadgets,25525.59,3,2023-05-12,Credit Card
+ORD1132,Customer_132,Other,Kolkata,Camera,Electronics,23729.8,2,2023-05-13,Wallet
+ORD1133,Customer_133,Female,Hyderabad,Headphones,Gadgets,25043.83,5,2023-05-14,Cash
+ORD1134,Customer_134,Other, ,Smartphone,Electronics,8687.49,1,2023-05-15,Credit Card
+ORD1135,Customer_135,Female,Kolkata,Laptop,Gadgets,37695.79,2,2023-05-16,Cash
+ORD1136,Customer_136,Female,Delhi,Smartphone,Accessories,16371.37,4,2023-05-17,Credit Card
+ORD1137,Customer_137,Male,Kolkata,Charger,Electronics,16879.29,2,2023-05-18,Debit Card
+ORD1138,Customer_138,Male,Kolkata,Camera,Gadgets,,3,2023-05-19,UPI
+ORD1139,Customer_139,Other,Ahmedabad,Camera,Gadgets,25593.0,5,2023-05-20,Wallet
+ORD1140,,Female,Bangalore,Mouse,Electronics,,3,2023-05-21,UPI
+ORD1141,Customer_141,Male,Ahmedabad,Keyboard,Accessories,19242.56,4,2023-05-22,Cash
+ORD1142,Customer_142,Male,Ahmedabad,Monitor,Gadgets,40946.61,2,2023-05-23,UPI
+ORD1143,Customer_143,Male,Pune,Keyboard,Electronics,4402.11,1,2023-05-24,UPI
+ORD1144,Customer_144,Male,Pune,Laptop,Electronics,22487.35,4,2023-05-25,UPI
+ORD1145,Customer_145,Other,Hyderabad,Headphones,Accessories,28865.23,3,2023-05-26,UPI
+ORD1146,Customer_146,Male,Ahmedabad,Mouse,Accessories,4856.98,2,2023-05-27,Wallet
+ORD1147,,Other,Pune,Laptop,Accessories,25173.58,3,2023-05-28,Debit Card
+ORD1148,Customer_148,Female,Chennai,Smartphone,Accessories,16145.05,1,2023-05-29,Debit Card
+ORD1149,Customer_149,Other,Chennai,Charger,Gadgets,,4,2023-05-30,UPI
+ORD1150,Customer_150,Male,Hyderabad,Smartphone,Gadgets,37389.33,4,2023-05-31,Debit Card
+ORD1151,Customer_151,Female,Chennai,Laptop,Accessories,1379.57,5,2023-06-01,Debit Card
+ORD1152,Customer_152,Female,Hyderabad,Charger,Accessories,20470.26,3,2023-06-02,Wallet
+ORD1153,Customer_153,Other,Delhi,Camera,Accessories,2273.68,5,2023-06-03,UPI
+ORD1154,Customer_154,Female,Pune,Smartphone,Accessories,27680.39,4,2023-06-04,Cash
+ORD1155,Customer_155,Other,Ahmedabad,Keyboard,Electronics,41382.48,2,2023-06-05,UPI
+ORD1156,Customer_156,Female,Hyderabad,Laptop,Electronics,39693.27,5,2023-06-06,Debit Card
+ORD1157,Customer_157,Other,Hyderabad,Laptop,Electronics,,2,2023-06-07,Cash
+ORD1158,,Male,Bangalore,Keyboard,Electronics,32058.14,5,2023-06-08,Debit Card
+ORD1159,Customer_159,Other,Ahmedabad,Headphones,Gadgets,44560.49,3,2023-06-09,Debit Card
+ORD1160,Customer_160,Other,Delhi,Monitor,Electronics,28335.46,3,2023-06-10,Credit Card
+ORD1161,Customer_161,Male,Bangalore,Keyboard,Electronics,32902.5,4,2023-06-11,Credit Card
+ORD1162,Customer_162,Other,Pune,Camera,Electronics,23082.29,3,2023-06-12,Credit Card
+ORD1163,Customer_163,Other,Mumbai,Camera,Electronics,17372.28,5,2023-06-13,Debit Card
+ORD1164,Customer_164,Female,Ahmedabad,Smartphone,Accessories,41352.89,5,2023-06-14,UPI
+ORD1165,Customer_165,Other,Mumbai,Camera,Accessories,40921.14,2,2023-06-15,UPI
+ORD1166,,Female,Ahmedabad,Keyboard,Accessories,,1,2023-06-16,Debit Card
+ORD1167,Customer_167,Male,Delhi,Mouse,Accessories,,5,2023-06-17,Credit Card
+ORD1168,Customer_168,Female,Bangalore,Headphones,Electronics,38487.11,2,2023-06-18,Debit Card
+ORD1169,Customer_169,Female,Hyderabad,Monitor,Gadgets,30197.58,4,2023-06-19,UPI
+ORD1170,Customer_170,Male,Bangalore,Smartphone,Accessories,35974.57,3,2023-06-20,UPI
+ORD1171,,Female,Mumbai,Camera,Electronics,18483.08,3,2023-06-21,Wallet
+ORD1172,Customer_172,Male,Ahmedabad,Keyboard,Accessories,22900.36,5,2023-06-22,UPI
+ORD1173,Customer_173,Other,Kolkata,Smartphone,Accessories,5323.13,3,2023-06-23,Wallet
+ORD1174,Customer_174,Other,Pune,Laptop,Accessories,33116.06,4,2023-06-24,Debit Card
+ORD1175,Customer_175,Female,Hyderabad,Monitor,Accessories,608.75,1,2023-06-25,UPI
+ORD1176,Customer_176,Other,Mumbai,Keyboard,Electronics,18079.38,5,2023-06-26,Wallet
+ORD1177,Customer_177,Male,Pune,Mouse,Electronics,31866.23,4,2023-06-27,UPI
+ORD1178,Customer_178,Other,Hyderabad,Smartphone,Electronics,40095.68,2,2023-06-28,Wallet
+ORD1179,Customer_179,Male,Pune,Charger,Gadgets,,1,2023-06-29,UPI
+ORD1180,Customer_180,Other,Ahmedabad,Charger,Accessories,19007.57,5,2023-06-30,UPI
+ORD1181,Customer_181,Female,Delhi,Monitor,Gadgets,5762.95,3,2023-07-01,Cash
+ORD1182,Customer_182,Other,Mumbai,Headphones,Gadgets,44895.42,5,2023-07-02,Debit Card
+ORD1183,Customer_183,Other,Chennai,Charger,Gadgets,,2,2023-07-03,Debit Card
+ORD1184,Customer_184,Other,Kolkata,Headphones,Electronics,41181.01,3,2023-07-04,UPI
+ORD1185,Customer_185,Male,Chennai,Smartphone,Electronics,37254.29,1,2023-07-05,Wallet
+ORD1186,Customer_186,Male,Mumbai,Smartphone,Accessories,20755.93,5,2023-07-06,Credit Card
+ORD1187,,Female,Hyderabad,Camera,Electronics,13087.32,4,2023-07-07,Wallet
+ORD1188,Customer_188,Male,Mumbai,Monitor,Electronics,10198.11,2,2023-07-08,UPI
+ORD1189,Customer_189,Other,Mumbai,Mouse,Gadgets,6476.92,5,2023-07-09,Debit Card
+ORD1190,Customer_190,Other,Ahmedabad,Laptop,Electronics,,4,2023-07-10,Wallet
+ORD1191,Customer_191,Male,Bangalore,Keyboard,Accessories,11171.68,5,2023-07-11,Cash
+ORD1192,Customer_192,Other, ,Charger,Accessories,41315.43,2,2023-07-12,UPI
+ORD1193,Customer_193,Female,Delhi,Mouse,Gadgets,9933.65,5,2023-07-13,Wallet
+ORD1194,Customer_194,Female,Delhi,Camera,Electronics,17227.71,3,2023-07-14,Wallet
+ORD1195,Customer_195,Male,Pune,Keyboard,Gadgets,37978.89,3,2023-07-15,Cash
+ORD1196,Customer_196,Male,Delhi,Monitor,Accessories,2801.77,4,2023-07-16,Credit Card
+ORD1197,Customer_197,Female,Kolkata,Keyboard,Accessories,31845.4,3,2023-07-17,Credit Card
+ORD1198,,Female,Pune,Laptop,Electronics,33771.02,1,2023-07-18,Wallet
+ORD1199,Customer_199,Male,Pune,Keyboard,Electronics,6599.35,1,2023-07-19,UPI
+ORD1200,Customer_200,Male,Hyderabad,Monitor,Accessories,44641.84,5,2023-07-20,Cash
+ORD1201,Customer_201,Male,Bangalore,Mouse,Accessories,23140.7,1,2023-07-21,Credit Card
+ORD1202,Customer_202,Other,Chennai,Laptop,Gadgets,29671.15,1,2023-07-22,Wallet
+ORD1203,Customer_203,Male,Hyderabad,Headphones,Gadgets,25457.78,2,2023-07-23,UPI
+ORD1204,Customer_204,Male,Bangalore,Camera,Gadgets,,2,2023-07-24,Credit Card
+ORD1205,Customer_205,Other,Bangalore,Keyboard,Electronics,714.71,1,2023-07-25,Debit Card
+ORD1206,Customer_206,Female,Bangalore,Smartphone,Electronics,36942.59,2,2023-07-26,Wallet
+ORD1207,Customer_207,Male,Mumbai,Charger,Accessories,27884.7,1,2023-07-27,Cash
+ORD1208,Customer_208,Other,Hyderabad,Keyboard,Electronics,21924.11,4,2023-07-28,UPI
+ORD1209,Customer_209,Male,Chennai,Headphones,Electronics,29463.48,2,2023-07-29,Wallet
+ORD1210,Customer_210,Male,Ahmedabad,Keyboard,Electronics,46256.36,1,2023-07-30,Credit Card
+ORD1211,Customer_211,Other,Bangalore,Monitor,Electronics,39163.53,1,2023-07-31,Wallet
+ORD1212,Customer_212,Female,Chennai,Mouse,Electronics,45553.98,5,2023-08-01,Wallet
+ORD1213,Customer_213,Other,Ahmedabad,Mouse,Electronics,34744.98,4,2023-08-02,Credit Card
+ORD1214,Customer_214,Male,Kolkata,Smartphone,Electronics,9095.69,4,2023-08-03,Debit Card
+ORD1215,Customer_215,Female,Ahmedabad,Camera,Electronics,40854.59,5,2023-08-04,UPI
+ORD1216,Customer_216,Other,Kolkata,Smartphone,Accessories,5625.92,5,2023-08-05,Credit Card
+ORD1217,Customer_217,Other,Delhi,Camera,Accessories,33047.33,5,2023-08-06,Wallet
+ORD1218,Customer_218,Female,Ahmedabad,Monitor,Gadgets,30504.96,3,2023-08-07,Wallet
+ORD1219,Customer_219,Male,Kolkata,Charger,Gadgets,16431.27,1,2023-08-08,Cash
+ORD1220,Customer_220,Other,Bangalore,Camera,Gadgets,44128.83,3,2023-08-09,Wallet
+ORD1221,Customer_221,Other,Mumbai,Mouse,Electronics,21223.9,2,2023-08-10,Credit Card
+ORD1222,Customer_222,Other,Ahmedabad,Mouse,Gadgets,30645.19,5,2023-08-11,Cash
+ORD1223,,Male,Pune,Headphones,Gadgets,34779.52,1,2023-08-12,Wallet
+ORD1224,Customer_224,Other,Kolkata,Camera,Accessories,12787.82,1,2023-08-13,Credit Card
+ORD1225,Customer_225,Female,Hyderabad,Monitor,Electronics,20194.56,2,2023-08-14,UPI
+ORD1226,Customer_226,Female, ,Headphones,Electronics,17471.51,4,2023-08-15,UPI
+ORD1227,Customer_227,Other,Ahmedabad,Headphones,Electronics,15061.59,1,2023-08-16,Wallet
+ORD1228,Customer_228,Other,Kolkata,Laptop,Electronics,40337.44,4,2023-08-17,UPI
+ORD1229,Customer_229,Female,Chennai,Mouse,Gadgets,,1,2023-08-18,Wallet
+ORD1230,Customer_230,Female,Hyderabad,Smartphone,Accessories,30324.96,3,2023-08-19,Cash
+ORD1231,Customer_231,Other,Ahmedabad,Smartphone,Electronics,44378.62,5,2023-08-20,UPI
+ORD1232,Customer_232,Female,Mumbai,Monitor,Electronics,25858.58,4,2023-08-21,Cash
+ORD1233,Customer_233,Male,Chennai,Camera,Accessories,42232.18,3,2023-08-22,Cash
+ORD1234,Customer_234,Male,Hyderabad,Headphones,Electronics,27616.4,1,2023-08-23,Cash
+ORD1235,Customer_235,Male,Pune,Mouse,Electronics,16038.58,5,2023-08-24,Debit Card
+ORD1236,Customer_236,Male,Kolkata,Camera,Accessories,36972.52,3,2023-08-25,Credit Card
+ORD1237,Customer_237,Female,Kolkata,Headphones,Electronics,27902.29,5,2023-08-26,Wallet
+ORD1238,Customer_238,Male,Delhi,Camera,Electronics,11258.46,1,2023-08-27,Cash
+ORD1239,Customer_239,Other,Hyderabad,Laptop,Gadgets,10880.78,1,2023-08-28,Wallet
+ORD1240,Customer_240,Other,Kolkata,Camera,Accessories,35862.03,3,2023-08-29,Cash
+ORD1241,Customer_241,Male,Delhi,Smartphone,Gadgets,34487.26,1,2023-08-30,Credit Card
+ORD1242,Customer_242,Other,Delhi,Charger,Accessories,46098.99,2,2023-08-31,UPI
+ORD1243,Customer_243,Male,Ahmedabad,Camera,Accessories,7067.25,5,2023-09-01,Wallet
+ORD1244,Customer_244,Male,Kolkata,Laptop,Electronics,35664.62,1,2023-09-02,Debit Card
+ORD1245,Customer_245,Male,Chennai,Camera,Accessories,48771.38,1,2023-09-03,Wallet
+ORD1246,Customer_246,Other,Pune,Keyboard,Gadgets,9301.73,2,2023-09-04,Credit Card
+ORD1247,Customer_247,Other,Chennai,Laptop,Accessories,27353.33,5,2023-09-05,Cash
+ORD1248,Customer_248,Male,Chennai,Charger,Electronics,32025.43,4,2023-09-06,Wallet
+ORD1249,Customer_249,Male,Kolkata,Keyboard,Accessories,35662.46,2,2023-09-07,Credit Card
+ORD1250,Customer_250,Male,Bangalore,Laptop,Electronics,,2,2023-09-08,Cash
+ORD1251,Customer_251,Male,Mumbai,Mouse,Electronics,28332.87,5,2023-09-09,UPI
+ORD1252,Customer_252,Female,Delhi,Headphones,Accessories,29348.91,2,2023-09-10,Credit Card
+ORD1253,Customer_253,Male,Kolkata,Laptop,Accessories,47162.35,5,2023-09-11,Debit Card
+ORD1254,Customer_254,Other,Ahmedabad,Charger,Accessories,35651.12,2,2023-09-12,Wallet
+ORD1255,Customer_255,Male,Delhi,Monitor,Electronics,33875.05,5,2023-09-13,Credit Card
+ORD1256,Customer_256,Female,Pune,Headphones,Electronics,44746.37,5,2023-09-14,Cash
+ORD1257,Customer_257,Other,Bangalore,Laptop,Gadgets,26928.19,4,2023-09-15,Cash
+ORD1258,Customer_258,Female,Mumbai,Headphones,Gadgets,43935.12,1,2023-09-16,Debit Card
+ORD1259,Customer_259,Male,Kolkata,Camera,Gadgets,21408.13,5,2023-09-17,Wallet
+ORD1260,Customer_260,Other,Pune,Laptop,Electronics,1132.14,3,2023-09-18,Cash
+ORD1261,Customer_261,Male,Hyderabad,Keyboard,Gadgets,5770.29,4,2023-09-19,Cash
+ORD1262,Customer_262,Other,Bangalore,Charger,Accessories,19353.08,4,2023-09-20,Cash
+ORD1263,Customer_263,Other,Chennai,Smartphone,Accessories,3126.72,1,2023-09-21,Credit Card
+ORD1264,Customer_264,Other,Bangalore,Smartphone,Accessories,,2,2023-09-22,Credit Card
+ORD1265,Customer_265,Female,Pune,Charger,Gadgets,,2,2023-09-23,Wallet
+ORD1266,Customer_266,Male,Kolkata,Monitor,Accessories,39383.84,5,2023-09-24,Debit Card
+ORD1267,Customer_267,Female,Bangalore,Charger,Electronics,49184.85,4,2023-09-25,Wallet
+ORD1268,Customer_268,Female,Kolkata,Camera,Electronics,,5,2023-09-26,Debit Card
+ORD1269,Customer_269,Male,Ahmedabad,Charger,Accessories,7748.21,3,2023-09-27,UPI
+ORD1270,Customer_270,Male,Kolkata,Charger,Accessories,3570.62,2,2023-09-28,Cash
+ORD1271,Customer_271,Male,Pune,Headphones,Electronics,39325.69,5,2023-09-29,Debit Card
+ORD1272,Customer_272,Other,Mumbai,Smartphone,Accessories,10598.04,5,2023-09-30,Cash
+ORD1273,Customer_273,Female,Ahmedabad,Monitor,Electronics,27288.02,4,2023-10-01,Debit Card
+ORD1274,Customer_274,Female,Mumbai,Headphones,Gadgets,18254.78,3,2023-10-02,UPI
+ORD1275,Customer_275,Female,Bangalore,Smartphone,Gadgets,22903.43,3,2023-10-03,Debit Card
+ORD1276,Customer_276,Female,Chennai,Charger,Electronics,30997.39,5,2023-10-04,Wallet
+ORD1277,,Female,Hyderabad,Smartphone,Gadgets,33938.54,3,2023-10-05,Credit Card
+ORD1278,Customer_278,Other,Pune,Mouse,Gadgets,28313.31,3,2023-10-06,Cash
+ORD1279,Customer_279,Male,Mumbai,Laptop,Electronics,,4,2023-10-07,Credit Card
+ORD1280,Customer_280,Other,Hyderabad,Laptop,Accessories,32532.41,4,2023-10-08,Debit Card
+ORD1281,Customer_281,Other,Delhi,Keyboard,Gadgets,19749.89,3,2023-10-09,Wallet
+ORD1282,Customer_282,Other,Kolkata,Camera,Accessories,25790.65,5,2023-10-10,Debit Card
+ORD1283,Customer_283,Male,Mumbai,Charger,Accessories,,2,2023-10-11,UPI
+ORD1284,Customer_284,Male,Ahmedabad,Charger,Gadgets,34958.36,5,2023-10-12,UPI
+ORD1285,Customer_285,Female,Pune,Mouse,Accessories,34800.34,5,2023-10-13,UPI
+ORD1286,Customer_286,Other,Kolkata,Mouse,Accessories,2825.5,2,2023-10-14,Debit Card
+ORD1287,Customer_287,Female,Hyderabad,Camera,Gadgets,19388.34,4,2023-10-15,UPI
+ORD1288,,Male,Pune,Monitor,Gadgets,21120.03,5,2023-10-16,Debit Card
+ORD1289,Customer_289,Male,Mumbai,Smartphone,Accessories,39511.52,3,2023-10-17,Debit Card
+ORD1290,Customer_290,Male,Chennai,Keyboard,Accessories,34414.86,3,2023-10-18,Wallet
+ORD1291,Customer_291,Male,Ahmedabad,Mouse,Accessories,48308.74,4,2023-10-19,Cash
+ORD1292,Customer_292,Other,Delhi,Headphones,Electronics,3163.21,4,2023-10-20,Credit Card
+ORD1293,Customer_293,Female,Pune,Laptop,Electronics,37311.66,4,2023-10-21,Cash
+ORD1294,Customer_294,Male,Chennai,Charger,Accessories,,1,2023-10-22,Credit Card
+ORD1295,Customer_295,Female,Mumbai,Laptop,Gadgets,43508.07,1,2023-10-23,Credit Card
+ORD1296,,Male,Ahmedabad,Mouse,Electronics,,3,2023-10-24,Debit Card
+ORD1297,Customer_297,Female,Kolkata,Mouse,Electronics,22431.66,5,2023-10-25,UPI
+ORD1298,,Female,Hyderabad,Headphones,Accessories,11664.65,1,2023-10-26,UPI
+ORD1299,Customer_299,Male,Mumbai,Headphones,Electronics,31872.53,5,2023-10-27,UPI
+ORD1300,Customer_300,Male,Bangalore,Laptop,Accessories,35622.5,2,2023-10-28,Cash
+ORD1301,Customer_301,Female,Delhi,Camera,Gadgets,18703.19,3,2023-10-29,UPI
+ORD1302,Customer_302,Other,Delhi,Laptop,Accessories,29625.07,1,2023-10-30,Wallet
+ORD1303,Customer_303,Male,Kolkata,Mouse,Gadgets,37053.28,3,2023-10-31,Debit Card
+ORD1304,Customer_304,Male,Ahmedabad,Laptop,Electronics,10225.22,2,2023-11-01,UPI
+ORD1305,Customer_305,Other,Mumbai,Charger,Electronics,36383.27,2,2023-11-02,UPI
+ORD1306,Customer_306,Other,Mumbai,Camera,Electronics,10078.14,3,2023-11-03,UPI
+ORD1307,Customer_307,Male,Chennai,Mouse,Electronics,,1,2023-11-04,Cash
+ORD1308,,Male,Bangalore,Mouse,Gadgets,49180.94,3,2023-11-05,Debit Card
+ORD1309,Customer_309,Male,Hyderabad,Laptop,Electronics,,5,2023-11-06,Wallet
+ORD1310,Customer_310,Male,Ahmedabad,Smartphone,Accessories,48142.52,5,2023-11-07,UPI
+ORD1311,Customer_311,Female,Pune,Keyboard,Gadgets,,5,2023-11-08,Credit Card
+ORD1312,Customer_312,Female,Hyderabad,Mouse,Gadgets,6408.01,5,2023-11-09,Cash
+ORD1313,Customer_313,Female,Bangalore,Monitor,Electronics,2511.39,5,2023-11-10,UPI
+ORD1314,Customer_314,Male,Hyderabad,Monitor,Electronics,14316.06,2,2023-11-11,UPI
+ORD1315,Customer_315,Female,Mumbai,Mouse,Gadgets,13579.86,1,2023-11-12,Cash
+ORD1316,Customer_316,Male,Ahmedabad,Keyboard,Accessories,8465.98,1,2023-11-13,Wallet
+ORD1317,Customer_317,Male,Hyderabad,Smartphone,Accessories,42377.7,4,2023-11-14,Credit Card
+ORD1318,Customer_318,Female,Kolkata,Mouse,Electronics,779.43,3,2023-11-15,Credit Card
+ORD1319,Customer_319,Male,Delhi,Charger,Electronics,23583.4,2,2023-11-16,Wallet
+ORD1320,Customer_320,Female,Pune,Keyboard,Electronics,46905.98,2,2023-11-17,Cash
+ORD1321,Customer_321,Female,Chennai,Keyboard,Gadgets,2477.06,3,2023-11-18,UPI
+ORD1322,Customer_322,Female,Ahmedabad,Laptop,Accessories,46467.1,3,2023-11-19,Wallet
+ORD1323,,Female,Ahmedabad,Smartphone,Gadgets,30045.58,5,2023-11-20,Cash
+ORD1324,Customer_324,Female,Chennai,Charger,Gadgets,38796.22,2,2023-11-21,Cash
+ORD1325,Customer_325,Other,Pune,Camera,Accessories,31455.65,2,2023-11-22,Cash
+ORD1326,Customer_326,Other,Mumbai,Laptop,Gadgets,42235.43,3,2023-11-23,Cash
+ORD1327,Customer_327,Other,Pune,Monitor,Electronics,,3,2023-11-24,Credit Card
+ORD1328,Customer_328,Other,Pune,Charger,Gadgets,39600.46,1,2023-11-25,Cash
+ORD1329,Customer_329,Other,Delhi,Monitor,Gadgets,27732.93,5,2023-11-26,Wallet
+ORD1330,,Female,Hyderabad,Charger,Accessories,4107.6,4,2023-11-27,UPI
+ORD1331,Customer_331,Male,Kolkata,Charger,Gadgets,35530.24,5,2023-11-28,UPI
+ORD1332,Customer_332,Male,Chennai,Smartphone,Gadgets,26507.06,2,2023-11-29,Debit Card
+ORD1333,Customer_333,Female,Mumbai,Keyboard,Electronics,47870.89,1,2023-11-30,Wallet
+ORD1334,Customer_334,Male,Ahmedabad,Charger,Gadgets,26270.01,3,2023-12-01,Debit Card
+ORD1335,Customer_335,Male,Mumbai,Smartphone,Electronics,39419.78,4,2023-12-02,Wallet
+ORD1336,Customer_336,Other,Chennai,Camera,Accessories,8388.84,2,2023-12-03,Cash
+ORD1337,Customer_337,Other,Delhi,Mouse,Gadgets,27382.47,4,2023-12-04,Debit Card
+ORD1338,Customer_338,Other,Delhi,Mouse,Accessories,20469.14,5,2023-12-05,Cash
+ORD1339,Customer_339,Male,Pune,Keyboard,Electronics,17795.45,1,2023-12-06,Wallet
+ORD1340,Customer_340,Other,Chennai,Smartphone,Accessories,44228.14,5,2023-12-07,Credit Card
+ORD1341,Customer_341,Female,Bangalore,Camera,Electronics,33335.06,3,2023-12-08,Credit Card
+ORD1342,Customer_342,Male,Chennai,Laptop,Electronics,16887.79,1,2023-12-09,Credit Card
+ORD1343,Customer_343,Male,Mumbai,Charger,Electronics,15031.93,5,2023-12-10,Credit Card
+ORD1344,Customer_344,Other,Chennai,Charger,Electronics,47540.26,4,2023-12-11,UPI
+ORD1345,Customer_345,Female,Chennai,Smartphone,Gadgets,31104.89,1,2023-12-12,Credit Card
+ORD1346,Customer_346,Other,Chennai,Charger,Electronics,24005.43,1,2023-12-13,Wallet
+ORD1347,Customer_347,Other,Pune,Mouse,Electronics,28286.07,3,2023-12-14,Credit Card
+ORD1348,,Male,Bangalore,Keyboard,Gadgets,37730.62,3,2023-12-15,UPI
+ORD1349,Customer_349,Male,Delhi,Mouse,Accessories,32640.36,4,2023-12-16,Cash
+ORD1350,Customer_350,Other,Kolkata,Monitor,Electronics,6178.74,4,2023-12-17,Debit Card
+ORD1351,Customer_351,Male,Bangalore,Headphones,Accessories,17627.36,1,2023-12-18,Cash
+ORD1352,Customer_352,Male,Bangalore,Camera,Gadgets,12397.22,2,2023-12-19,Cash
+ORD1353,Customer_353,Male,Kolkata,Monitor,Electronics,32292.09,5,2023-12-20,Debit Card
+ORD1354,Customer_354,Other,Bangalore,Headphones,Electronics,45971.06,1,2023-12-21,Credit Card
+ORD1355,Customer_355,Male,Mumbai,Mouse,Accessories,12569.44,4,2023-12-22,Credit Card
+ORD1356,Customer_356,Other, ,Laptop,Gadgets,2473.92,1,2023-12-23,Wallet
+ORD1357,Customer_357,Male,Bangalore,Keyboard,Electronics,44340.18,3,2023-12-24,Credit Card
+ORD1358,Customer_358,Female,Delhi,Charger,Accessories,19377.94,5,2023-12-25,Credit Card
+ORD1359,Customer_359,Male,Pune,Laptop,Electronics,39912.23,1,2023-12-26,Wallet
+ORD1360,,Other,Chennai,Headphones,Electronics,6112.01,3,2023-12-27,Debit Card
+ORD1361,Customer_361,Male,Pune,Mouse,Electronics,13201.23,5,2023-12-28,Wallet
+ORD1362,Customer_362,Other,Delhi,Mouse,Gadgets,36336.79,5,2023-12-29,Credit Card
+ORD1363,Customer_363,Other,Bangalore,Camera,Gadgets,1722.93,2,2023-12-30,Credit Card
+ORD1364,Customer_364,Male,Kolkata,Mouse,Electronics,,3,2023-12-31,Credit Card
+ORD1365,Customer_365,Other,Delhi,Monitor,Electronics,,5,2024-01-01,Wallet
+ORD1366,Customer_366,Male,Bangalore,Keyboard,Gadgets,25958.3,2,2024-01-02,Debit Card
+ORD1367,Customer_367,Female,Hyderabad,Laptop,Accessories,25682.41,2,2024-01-03,UPI
+ORD1368,Customer_368,Other,Mumbai,Mouse,Electronics,24596.83,1,2024-01-04,Wallet
+ORD1369,Customer_369,Other,Mumbai,Mouse,Accessories,,4,2024-01-05,Debit Card
+ORD1370,Customer_370,Other,Ahmedabad,Headphones,Gadgets,,4,2024-01-06,Credit Card
+ORD1371,,Other,Ahmedabad,Camera,Gadgets,16355.48,5,2024-01-07,Debit Card
+ORD1372,Customer_372,Female,Pune,Mouse,Accessories,4576.1,5,2024-01-08,Cash
+ORD1373,Customer_373,Female,Mumbai,Mouse,Gadgets,5249.84,5,2024-01-09,Cash
+ORD1374,Customer_374,Male,Ahmedabad,Charger,Electronics,48595.62,1,2024-01-10,UPI
+ORD1375,Customer_375,Other,Chennai,Mouse,Accessories,38779.27,2,2024-01-11,Credit Card
+ORD1376,Customer_376,Other,Delhi,Monitor,Accessories,26893.69,4,2024-01-12,UPI
+ORD1377,Customer_377,Female,Kolkata,Keyboard,Accessories,31533.19,3,2024-01-13,Cash
+ORD1378,Customer_378,Male,Ahmedabad,Charger,Electronics,10933.68,4,2024-01-14,UPI
+ORD1379,Customer_379,Female,Delhi,Camera,Electronics,31660.97,2,2024-01-15,Cash
+ORD1380,Customer_380,Female,Delhi,Monitor,Gadgets,11052.17,2,2024-01-16,Cash
+ORD1381,,Male,Ahmedabad,Keyboard,Accessories,34427.56,3,2024-01-17,Debit Card
+ORD1382,Customer_382,Other,Hyderabad,Keyboard,Gadgets,,1,2024-01-18,Credit Card
+ORD1383,Customer_383,Other,Hyderabad,Monitor,Accessories,10676.19,4,2024-01-19,Cash
+ORD1384,Customer_384,Female,Mumbai,Camera,Gadgets,41523.06,5,2024-01-20,Credit Card
+ORD1385,Customer_385,Female,Ahmedabad,Camera,Accessories,43992.54,1,2024-01-21,UPI
+ORD1386,Customer_386,Female,Ahmedabad,Headphones,Electronics,37198.06,5,2024-01-22,UPI
+ORD1387,Customer_387,Male,Mumbai,Camera,Gadgets,22044.27,4,2024-01-23,Cash
+ORD1388,Customer_388,Male,Mumbai,Monitor,Gadgets,40929.34,3,2024-01-24,Credit Card
+ORD1389,Customer_389,Female,Pune,Mouse,Gadgets,4069.96,1,2024-01-25,Cash
+ORD1390,Customer_390,Other,Bangalore,Monitor,Gadgets,,4,2024-01-26,Cash
+ORD1391,Customer_391,Other,Mumbai,Monitor,Accessories,1675.77,5,2024-01-27,Debit Card
+ORD1392,Customer_392,Male,Bangalore,Charger,Electronics,35984.98,4,2024-01-28,UPI
+ORD1393,Customer_393,Male,Kolkata,Laptop,Gadgets,2375.37,2,2024-01-29,Credit Card
+ORD1394,Customer_394,Other,Pune,Mouse,Gadgets,4125.78,2,2024-01-30,UPI
+ORD1395,Customer_395,Male,Hyderabad,Smartphone,Electronics,9310.61,4,2024-01-31,Debit Card
+ORD1396,Customer_396,Other,Kolkata,Laptop,Accessories,12969.45,5,2024-02-01,Wallet
+ORD1397,Customer_397,Female,Ahmedabad,Keyboard,Accessories,3986.88,2,2024-02-02,UPI
+ORD1398,Customer_398,Male,Hyderabad,Charger,Gadgets,41170.16,4,2024-02-03,Debit Card
+ORD1399,Customer_399,Female,Mumbai,Keyboard,Gadgets,45593.84,4,2024-02-04,UPI
+ORD1400,Customer_400,Male,Mumbai,Smartphone,Accessories,20677.82,5,2024-02-05,Credit Card
+ORD1401,Customer_401,Male,Chennai,Mouse,Electronics,22830.72,2,2024-02-06,Debit Card
+ORD1402,Customer_402,Female,Hyderabad,Monitor,Electronics,20520.18,5,2024-02-07,Wallet
+ORD1403,Customer_403,Female,Ahmedabad,Mouse,Gadgets,16162.01,5,2024-02-08,UPI
+ORD1404,Customer_404,Male,Chennai,Charger,Electronics,19780.34,5,2024-02-09,Debit Card
+ORD1405,Customer_405,Female,Hyderabad,Mouse,Gadgets,6356.14,2,2024-02-10,Wallet
+ORD1406,Customer_406,Other,Pune,Camera,Gadgets,792.0,2,2024-02-11,Credit Card
+ORD1407,Customer_407,Other,Ahmedabad,Monitor,Accessories,36154.14,1,2024-02-12,UPI
+ORD1408,Customer_408,Female,Hyderabad,Keyboard,Gadgets,3630.26,3,2024-02-13,Cash
+ORD1409,Customer_409,Other,Hyderabad,Camera,Electronics,37424.58,4,2024-02-14,Credit Card
+ORD1410,Customer_410,Other,Mumbai,Camera,Electronics,2753.08,3,2024-02-15,Credit Card
+ORD1411,Customer_411,Other,Pune,Camera,Gadgets,42488.44,5,2024-02-16,Credit Card
+ORD1412,Customer_412,Male,Hyderabad,Smartphone,Accessories,18206.16,1,2024-02-17,Credit Card
+ORD1413,Customer_413,Other,Pune,Monitor,Gadgets,25390.43,1,2024-02-18,Wallet
+ORD1414,Customer_414,Other,Kolkata,Smartphone,Electronics,14846.91,4,2024-02-19,Cash
+ORD1415,Customer_415,Female,Pune,Smartphone,Gadgets,34450.99,4,2024-02-20,UPI
+ORD1416,Customer_416,Other,Bangalore,Camera,Gadgets,30525.01,3,2024-02-21,Credit Card
+ORD1417,Customer_417,Male,Ahmedabad,Smartphone,Electronics,14435.11,3,2024-02-22,UPI
+ORD1418,Customer_418,Male,Mumbai,Laptop,Accessories,46371.2,2,2024-02-23,Debit Card
+ORD1419,Customer_419,Female,Mumbai,Laptop,Electronics,,3,2024-02-24,Credit Card
+ORD1420,Customer_420,Male,Mumbai,Headphones,Accessories,41195.06,3,2024-02-25,Credit Card
+ORD1421,,Male,Mumbai,Laptop,Gadgets,2025.55,5,2024-02-26,UPI
+ORD1422,Customer_422,Other,Hyderabad,Laptop,Electronics,8238.01,1,2024-02-27,Cash
+ORD1423,Customer_423,Other,Mumbai,Charger,Electronics,11383.35,3,2024-02-28,Debit Card
+ORD1424,Customer_424,Male,Pune,Smartphone,Accessories,,2,2024-02-29,Cash
+ORD1425,Customer_425,Female,Bangalore,Mouse,Accessories,39940.14,3,2024-03-01,UPI
+ORD1426,Customer_426,Female,Delhi,Headphones,Electronics,42548.64,5,2024-03-02,Wallet
+ORD1427,Customer_427,Other, ,Smartphone,Gadgets,,4,2024-03-03,Credit Card
+ORD1428,Customer_428,Male,Mumbai,Laptop,Electronics,31885.26,5,2024-03-04,Wallet
+ORD1429,Customer_429,Other,Hyderabad,Mouse,Gadgets,,2,2024-03-05,UPI
+ORD1430,Customer_430,Female,Pune,Camera,Gadgets,44405.42,4,2024-03-06,UPI
+ORD1431,Customer_431,Male,Hyderabad,Monitor,Gadgets,48285.59,1,2024-03-07,UPI
+ORD1432,Customer_432,Other,Delhi,Laptop,Gadgets,43423.38,2,2024-03-08,UPI
+ORD1433,Customer_433,Other,Kolkata,Camera,Accessories,32573.06,2,2024-03-09,Credit Card
+ORD1434,Customer_434,Female,Kolkata,Camera,Accessories,47890.89,3,2024-03-10,Wallet
+ORD1435,Customer_435,Other,Pune,Laptop,Electronics,1051.94,2,2024-03-11,Debit Card
+ORD1436,Customer_436,Female,Mumbai,Laptop,Accessories,43800.96,1,2024-03-12,Credit Card
+ORD1437,Customer_437,Female,Chennai,Charger,Electronics,7498.01,1,2024-03-13,UPI
+ORD1438,Customer_438,Male,Bangalore,Laptop,Electronics,2567.77,1,2024-03-14,UPI
+ORD1439,Customer_439,Male,Ahmedabad,Laptop,Gadgets,28849.57,2,2024-03-15,Credit Card
+ORD1440,Customer_440,Other,Chennai,Keyboard,Electronics,20007.04,5,2024-03-16,Wallet
+ORD1441,Customer_441,Female,Mumbai,Keyboard,Accessories,27602.51,2,2024-03-17,Wallet
+ORD1442,Customer_442,Female,Pune,Laptop,Accessories,4713.78,3,2024-03-18,Cash
+ORD1443,Customer_443,Male,Pune,Charger,Electronics,10897.62,1,2024-03-19,Cash
+ORD1444,Customer_444,Male,Mumbai,Smartphone,Gadgets,37200.81,3,2024-03-20,Cash
+ORD1445,Customer_445,Female,Kolkata,Headphones,Electronics,36433.9,1,2024-03-21,UPI
+ORD1446,Customer_446,Male,Chennai,Headphones,Electronics,,3,2024-03-22,Credit Card
+ORD1447,Customer_447,Other,Hyderabad,Smartphone,Accessories,45328.59,4,2024-03-23,Credit Card
+ORD1448,Customer_448,Female,Delhi,Mouse,Accessories,42647.21,4,2024-03-24,Cash
+ORD1449,Customer_449,Male,Kolkata,Mouse,Gadgets,7551.53,1,2024-03-25,Wallet
+ORD1450,Customer_450,Other,Delhi,Keyboard,Accessories,9607.64,3,2024-03-26,Cash
+ORD1451,Customer_451,Female,Bangalore,Monitor,Electronics,31035.8,2,2024-03-27,Credit Card
+ORD1452,Customer_452,Other,Kolkata,Keyboard,Accessories,13010.72,5,2024-03-28,UPI
+ORD1453,Customer_453,Other,Kolkata,Charger,Accessories,6173.82,2,2024-03-29,Cash
+ORD1454,Customer_454,Female,Pune,Headphones,Accessories,33713.41,2,2024-03-30,Debit Card
+ORD1455,Customer_455,Other,Pune,Monitor,Accessories,28580.99,5,2024-03-31,Debit Card
+ORD1456,Customer_456,Male,Delhi,Charger,Gadgets,3192.22,5,2024-04-01,Wallet
+ORD1457,Customer_457,Male,Bangalore,Camera,Accessories,37676.57,3,2024-04-02,Credit Card
+ORD1458,Customer_458,Male,Bangalore,Mouse,Electronics,49508.78,5,2024-04-03,UPI
+ORD1459,Customer_459,Other,Hyderabad,Mouse,Accessories,27668.13,4,2024-04-04,Debit Card
+ORD1460,Customer_460,Male,Mumbai,Keyboard,Gadgets,32411.39,5,2024-04-05,Cash
+ORD1461,Customer_461,Other,Bangalore,Headphones,Gadgets,4120.66,2,2024-04-06,UPI
+ORD1462,Customer_462,Male,Delhi,Laptop,Gadgets,33748.42,1,2024-04-07,Credit Card
+ORD1463,Customer_463,Female,Mumbai,Headphones,Electronics,12909.04,4,2024-04-08,Cash
+ORD1464,Customer_464,Other,Chennai,Charger,Electronics,10272.17,5,2024-04-09,UPI
+ORD1465,Customer_465,Other,Hyderabad,Charger,Accessories,29239.48,5,2024-04-10,Credit Card
+ORD1466,Customer_466,Male,Hyderabad,Charger,Electronics,47601.23,1,2024-04-11,UPI
+ORD1467,Customer_467,Female,Ahmedabad,Camera,Electronics,18178.35,3,2024-04-12,Debit Card
+ORD1468,Customer_468,Male,Pune,Laptop,Accessories,33729.13,2,2024-04-13,Debit Card
+ORD1469,Customer_469,Male,Bangalore,Laptop,Electronics,12109.38,1,2024-04-14,Credit Card
+ORD1470,Customer_470,Female,Pune,Smartphone,Accessories,14614.29,3,2024-04-15,Debit Card
+ORD1471,Customer_471,Female, ,Headphones,Accessories,3955.54,2,2024-04-16,Credit Card
+ORD1472,Customer_472,Male,Pune,Camera,Electronics,,5,2024-04-17,Wallet
+ORD1473,Customer_473,Female,Mumbai,Charger,Electronics,,3,2024-04-18,Debit Card
+ORD1474,Customer_474,Male,Delhi,Monitor,Accessories,,1,2024-04-19,UPI
+ORD1475,Customer_475,Other,Bangalore,Headphones,Electronics,33141.4,4,2024-04-20,UPI
+ORD1476,Customer_476,Male,Bangalore,Laptop,Accessories,34826.18,1,2024-04-21,Credit Card
+ORD1477,Customer_477,Other,Delhi,Mouse,Electronics,8043.55,1,2024-04-22,Wallet
+ORD1478,Customer_478,Male,Mumbai,Mouse,Gadgets,28559.66,4,2024-04-23,Cash
+ORD1479,Customer_479,Female,Kolkata,Camera,Electronics,40481.14,3,2024-04-24,UPI
+ORD1480,Customer_480,Other,Ahmedabad,Keyboard,Gadgets,47953.62,3,2024-04-25,Wallet
+ORD1481,Customer_481,Female,Hyderabad,Laptop,Electronics,8847.66,1,2024-04-26,UPI
+ORD1482,Customer_482,Other,Ahmedabad,Headphones,Accessories,16004.13,1,2024-04-27,Credit Card
+ORD1483,Customer_483,Other,Ahmedabad,Keyboard,Gadgets,,3,2024-04-28,Credit Card
+ORD1484,Customer_484,Male,Hyderabad,Laptop,Gadgets,35753.86,4,2024-04-29,Cash
+ORD1485,Customer_485,Male,Kolkata,Smartphone,Accessories,32221.51,2,2024-04-30,Credit Card
+ORD1486,Customer_486,Male,Chennai,Monitor,Gadgets,14195.65,4,2024-05-01,Cash
+ORD1487,Customer_487,Male,Mumbai,Laptop,Electronics,,5,2024-05-02,Credit Card
+ORD1488,Customer_488,Female,Pune,Mouse,Accessories,34139.22,1,2024-05-03,UPI
+ORD1489,Customer_489,Male,Hyderabad,Smartphone,Gadgets,16912.37,3,2024-05-04,Credit Card
+ORD1490,Customer_490,Male,Mumbai,Charger,Electronics,24257.72,4,2024-05-05,Debit Card
+ORD1491,Customer_491,Other, ,Headphones,Gadgets,22545.22,5,2024-05-06,Wallet
+ORD1492,Customer_492,Female,Ahmedabad,Keyboard,Accessories,,5,2024-05-07,UPI
+ORD1493,Customer_493,Female,Kolkata,Smartphone,Electronics,24605.08,1,2024-05-08,Wallet
+ORD1494,Customer_494,Other,Delhi,Mouse,Electronics,5887.22,2,2024-05-09,Debit Card
+ORD1495,Customer_495,Other,Chennai,Charger,Electronics,32454.8,2,2024-05-10,Wallet
+ORD1496,,Male,Hyderabad,Monitor,Accessories,4557.7,5,2024-05-11,Debit Card
+ORD1497,Customer_497,Female,Delhi,Charger,Electronics,14390.49,4,2024-05-12,Credit Card
+ORD1498,Customer_498,Male,Delhi,Smartphone,Electronics,41408.96,5,2024-05-13,Credit Card
+ORD1499,Customer_499,Other,Chennai,Headphones,Accessories,44619.2,1,2024-05-14,Debit Card
+ORD1500,Customer_500,Male,Kolkata,Monitor,Gadgets,10223.38,1,2024-05-15,UPI
+ORD1501,Customer_501,Female,Chennai,Laptop,Gadgets,36810.46,2,2024-05-16,Credit Card
+ORD1502,Customer_502,Male,Bangalore,Headphones,Gadgets,,5,2024-05-17,UPI
+ORD1503,Customer_503,Female,Kolkata,Charger,Gadgets,,3,2024-05-18,Wallet
+ORD1504,Customer_504,Male,Kolkata,Mouse,Gadgets,,3,2024-05-19,Credit Card
+ORD1505,Customer_505,Male,Pune,Headphones,Accessories,,4,2024-05-20,Debit Card
+ORD1506,Customer_506,Female,Mumbai,Monitor,Gadgets,31765.51,4,2024-05-21,Debit Card
+ORD1507,Customer_507,Female,Delhi,Charger,Accessories,40725.8,2,2024-05-22,Credit Card
+ORD1508,Customer_508,Female,Ahmedabad,Monitor,Accessories,29155.59,1,2024-05-23,Debit Card
+ORD1509,Customer_509,Male,Hyderabad,Laptop,Electronics,38575.41,3,2024-05-24,Credit Card
+ORD1510,Customer_510,Male,Bangalore,Keyboard,Electronics,11031.65,3,2024-05-25,Cash
+ORD1511,Customer_511,Male,Bangalore,Camera,Electronics,2314.49,3,2024-05-26,Credit Card
+ORD1512,Customer_512,Other,Hyderabad,Camera,Accessories,13400.51,3,2024-05-27,UPI
+ORD1513,Customer_513,Male,Chennai,Mouse,Gadgets,44752.3,2,2024-05-28,Wallet
+ORD1514,Customer_514,Female,Pune,Monitor,Gadgets,27214.02,5,2024-05-29,Debit Card
+ORD1515,Customer_515,Female, ,Charger,Accessories,32868.45,3,2024-05-30,Wallet
+ORD1516,Customer_516,Female,Hyderabad,Charger,Electronics,7857.33,1,2024-05-31,Credit Card
+ORD1517,Customer_517,Male,Delhi,Smartphone,Electronics,19928.67,3,2024-06-01,Credit Card
+ORD1518,Customer_518,Female,Hyderabad,Charger,Accessories,44626.16,4,2024-06-02,Credit Card
+ORD1519,Customer_519,Female,Delhi,Headphones,Electronics,29685.24,1,2024-06-03,UPI
+ORD1520,Customer_520,Other,Ahmedabad,Keyboard,Accessories,42929.63,5,2024-06-04,Wallet
+ORD1521,Customer_521,Other,Mumbai,Mouse,Electronics,7127.12,3,2024-06-05,Wallet
+ORD1522,Customer_522,Female,Pune,Headphones,Accessories,25305.6,2,2024-06-06,Debit Card
+ORD1523,Customer_523,Other,Hyderabad,Headphones,Gadgets,4982.42,2,2024-06-07,Credit Card
+ORD1524,Customer_524,Other,Hyderabad,Keyboard,Gadgets,,3,2024-06-08,Debit Card
+ORD1525,Customer_525,Female,Hyderabad,Smartphone,Gadgets,1024.29,4,2024-06-09,UPI
+ORD1526,,Male,Kolkata,Charger,Accessories,12324.6,2,2024-06-10,Cash
+ORD1527,Customer_527,Male,Mumbai,Smartphone,Electronics,48218.01,1,2024-06-11,UPI
+ORD1528,Customer_528,Female,Hyderabad,Charger,Electronics,49101.73,4,2024-06-12,Cash
+ORD1529,Customer_529,Male,Delhi,Monitor,Electronics,34366.0,5,2024-06-13,Credit Card
+ORD1530,,Other,Pune,Monitor,Electronics,37981.7,5,2024-06-14,Wallet
+ORD1531,Customer_531,Female,Bangalore,Headphones,Electronics,7448.35,2,2024-06-15,Wallet
+ORD1532,Customer_532,Male,Ahmedabad,Headphones,Gadgets,8381.51,4,2024-06-16,Debit Card
+ORD1533,Customer_533,Male,Pune,Laptop,Accessories,28534.68,2,2024-06-17,Cash
+ORD1534,Customer_534,Other,Mumbai,Keyboard,Electronics,28507.72,5,2024-06-18,Debit Card
+ORD1535,Customer_535,Female,Hyderabad,Camera,Accessories,43673.66,2,2024-06-19,Credit Card
+ORD1536,Customer_536,Female,Mumbai,Monitor,Electronics,7736.85,4,2024-06-20,Wallet
+ORD1537,Customer_537,Other,Chennai,Keyboard,Accessories,36734.22,3,2024-06-21,Debit Card
+ORD1538,Customer_538,Female, ,Headphones,Accessories,46989.18,5,2024-06-22,Cash
+ORD1539,Customer_539,Female,Hyderabad,Smartphone,Accessories,2500.78,3,2024-06-23,Credit Card
+ORD1540,Customer_540,Other,Mumbai,Headphones,Accessories,38192.88,4,2024-06-24,Credit Card
+ORD1541,Customer_541,Other,Hyderabad,Smartphone,Gadgets,11971.62,5,2024-06-25,Cash
+ORD1542,,Male,Kolkata,Charger,Accessories,13585.68,2,2024-06-26,Debit Card
+ORD1543,Customer_543,Female,Pune,Camera,Electronics,12083.92,2,2024-06-27,UPI
+ORD1544,Customer_544,Other, ,Charger,Gadgets,33594.99,2,2024-06-28,Debit Card
+ORD1545,Customer_545,Male,Pune,Headphones,Gadgets,26135.32,5,2024-06-29,Cash
+ORD1546,Customer_546,Female,Bangalore,Laptop,Accessories,39677.29,5,2024-06-30,Wallet
+ORD1547,,Male,Mumbai,Headphones,Electronics,19710.61,2,2024-07-01,Debit Card
+ORD1548,Customer_548,Other,Mumbai,Monitor,Accessories,45936.15,2,2024-07-02,UPI
+ORD1549,Customer_549,Female,Chennai,Headphones,Accessories,44136.82,3,2024-07-03,Debit Card
+ORD1550,Customer_550,Male,Pune,Monitor,Accessories,2475.28,5,2024-07-04,Wallet
+ORD1551,Customer_551,Other,Pune,Charger,Electronics,32601.98,2,2024-07-05,Credit Card
+ORD1552,Customer_552,Other,Bangalore,Laptop,Accessories,5609.64,4,2024-07-06,Debit Card
+ORD1553,Customer_553,Other,Chennai,Keyboard,Electronics,48437.85,2,2024-07-07,Credit Card
+ORD1554,Customer_554,Other,Mumbai,Charger,Accessories,31861.57,5,2024-07-08,Wallet
+ORD1555,Customer_555,Other,Bangalore,Charger,Accessories,14038.02,2,2024-07-09,UPI
+ORD1556,,Other,Kolkata,Headphones,Accessories,37224.53,3,2024-07-10,Debit Card
+ORD1557,Customer_557,Other,Chennai,Mouse,Accessories,29142.26,1,2024-07-11,Credit Card
+ORD1558,Customer_558,Male,Bangalore,Smartphone,Electronics,28722.93,5,2024-07-12,UPI
+ORD1559,Customer_559,Female,Bangalore,Charger,Accessories,19144.65,5,2024-07-13,Credit Card
+ORD1560,Customer_560,Female,Mumbai,Smartphone,Gadgets,19236.67,1,2024-07-14,Credit Card
+ORD1561,Customer_561,Male,Bangalore,Smartphone,Electronics,29590.1,2,2024-07-15,Credit Card
+ORD1562,Customer_562,Other,Ahmedabad,Keyboard,Electronics,44962.22,3,2024-07-16,Debit Card
+ORD1563,Customer_563,Female,Ahmedabad,Keyboard,Gadgets,4352.95,2,2024-07-17,Credit Card
+ORD1564,Customer_564,Other, ,Keyboard,Gadgets,12953.53,1,2024-07-18,Wallet
+ORD1565,Customer_565,Female,Pune,Camera,Electronics,48647.37,3,2024-07-19,Cash
+ORD1566,Customer_566,Other,Pune,Smartphone,Electronics,11533.51,4,2024-07-20,UPI
+ORD1567,Customer_567,Male,Bangalore,Headphones,Gadgets,,4,2024-07-21,UPI
+ORD1568,Customer_568,Other,Ahmedabad,Smartphone,Accessories,40953.22,3,2024-07-22,Debit Card
+ORD1569,Customer_569,Female,Mumbai,Charger,Gadgets,,4,2024-07-23,Debit Card
+ORD1570,Customer_570,Other,Ahmedabad,Keyboard,Accessories,39736.54,3,2024-07-24,Debit Card
+ORD1571,Customer_571,Female,Ahmedabad,Charger,Gadgets,44415.01,2,2024-07-25,Cash
+ORD1572,Customer_572,Other, ,Keyboard,Electronics,,2,2024-07-26,Wallet
+ORD1573,Customer_573,Female,Kolkata,Camera,Gadgets,44160.7,1,2024-07-27,UPI
+ORD1574,Customer_574,Female,Delhi,Headphones,Electronics,22274.99,2,2024-07-28,UPI
+ORD1575,Customer_575,Female,Pune,Monitor,Accessories,11884.54,2,2024-07-29,Debit Card
+ORD1576,Customer_576,Other,Mumbai,Keyboard,Gadgets,25969.79,1,2024-07-30,Debit Card
+ORD1577,Customer_577,Female,Kolkata,Mouse,Accessories,14400.07,5,2024-07-31,Wallet
+ORD1578,Customer_578,Other,Ahmedabad,Camera,Gadgets,7936.9,5,2024-08-01,Credit Card
+ORD1579,Customer_579,Male,Ahmedabad,Mouse,Gadgets,,3,2024-08-02,Wallet
+ORD1580,Customer_580,Male,Delhi,Camera,Accessories,30300.0,5,2024-08-03,Debit Card
+ORD1581,Customer_581,Female,Delhi,Headphones,Gadgets,,5,2024-08-04,UPI
+ORD1582,Customer_582,Other,Pune,Smartphone,Electronics,33224.93,5,2024-08-05,Wallet
+ORD1583,Customer_583,Female,Kolkata,Keyboard,Accessories,21023.38,2,2024-08-06,Credit Card
+ORD1584,Customer_584,Other,Mumbai,Laptop,Accessories,16846.13,5,2024-08-07,Cash
+ORD1585,Customer_585,Other,Mumbai,Charger,Electronics,6110.27,2,2024-08-08,Cash
+ORD1586,Customer_586,Male,Hyderabad,Monitor,Accessories,33923.86,2,2024-08-09,UPI
+ORD1587,Customer_587,Other,Ahmedabad,Charger,Gadgets,24211.55,1,2024-08-10,Credit Card
+ORD1588,Customer_588,Other,Delhi,Monitor,Electronics,29744.15,3,2024-08-11,Wallet
+ORD1589,Customer_589,Female,Ahmedabad,Camera,Gadgets,,1,2024-08-12,Debit Card
+ORD1590,Customer_590,Female,Chennai,Monitor,Gadgets,20839.51,4,2024-08-13,Debit Card
+ORD1591,Customer_591,Other,Pune,Charger,Gadgets,12561.68,2,2024-08-14,Credit Card
+ORD1592,Customer_592,Male,Ahmedabad,Smartphone,Gadgets,6830.31,5,2024-08-15,Wallet
+ORD1593,,Female,Bangalore,Keyboard,Gadgets,29821.21,5,2024-08-16,Credit Card
+ORD1594,Customer_594,Female,Delhi,Monitor,Gadgets,7168.84,4,2024-08-17,Wallet
+ORD1595,Customer_595,Male,Ahmedabad,Mouse,Electronics,,3,2024-08-18,Cash
+ORD1596,Customer_596,Female,Mumbai,Camera,Electronics,44594.48,2,2024-08-19,Wallet
+ORD1597,Customer_597,Other,Pune,Monitor,Accessories,7769.82,4,2024-08-20,Wallet
+ORD1598,Customer_598,Other,Mumbai,Smartphone,Electronics,8733.9,4,2024-08-21,Debit Card
+ORD1599,Customer_599,Other,Bangalore,Charger,Electronics,,4,2024-08-22,UPI
+ORD1600,Customer_600,Female,Delhi,Monitor,Electronics,26073.71,2,2024-08-23,Debit Card
+ORD1601,Customer_601,Female,Chennai,Keyboard,Electronics,20570.09,2,2024-08-24,Cash
+ORD1602,Customer_602,Female,Ahmedabad,Camera,Electronics,48477.56,2,2024-08-25,Credit Card
+ORD1603,Customer_603,Female,Ahmedabad,Mouse,Electronics,32062.32,2,2024-08-26,Debit Card
+ORD1604,Customer_604,Other,Bangalore,Monitor,Accessories,43986.19,1,2024-08-27,Credit Card
+ORD1605,Customer_605,Male,Pune,Charger,Electronics,36534.73,4,2024-08-28,Debit Card
+ORD1606,Customer_606,Other,Pune,Keyboard,Gadgets,41154.51,1,2024-08-29,UPI
+ORD1607,Customer_607,Female,Kolkata,Charger,Accessories,47389.07,3,2024-08-30,UPI
+ORD1608,Customer_608,Other,Hyderabad,Monitor,Electronics,11221.37,4,2024-08-31,Debit Card
+ORD1609,Customer_609,Male,Hyderabad,Headphones,Gadgets,30523.03,2,2024-09-01,Debit Card
+ORD1610,Customer_610,Other,Pune,Mouse,Electronics,23834.97,2,2024-09-02,Credit Card
+ORD1611,Customer_611,Male,Delhi,Smartphone,Gadgets,24342.59,2,2024-09-03,Credit Card
+ORD1612,Customer_612,Female,Pune,Laptop,Accessories,11358.51,1,2024-09-04,Cash
+ORD1613,,Other,Mumbai,Camera,Accessories,,2,2024-09-05,Cash
+ORD1614,Customer_614,Other,Pune,Mouse,Gadgets,7564.25,4,2024-09-06,Debit Card
+ORD1615,Customer_615,Other,Mumbai,Camera,Electronics,29340.98,5,2024-09-07,UPI
+ORD1616,Customer_616,Other,Hyderabad,Keyboard,Electronics,38490.76,4,2024-09-08,Cash
+ORD1617,Customer_617,Female,Kolkata,Headphones,Accessories,31348.98,3,2024-09-09,Cash
+ORD1618,Customer_618,Male,Kolkata,Charger,Gadgets,25784.84,4,2024-09-10,Wallet
+ORD1619,Customer_619,Male,Bangalore,Camera,Accessories,8802.22,2,2024-09-11,UPI
+ORD1620,Customer_620,Other,Pune,Smartphone,Gadgets,34436.76,4,2024-09-12,Credit Card
+ORD1621,Customer_621,Female,Mumbai,Keyboard,Accessories,46156.42,4,2024-09-13,Credit Card
+ORD1622,Customer_622,Male,Bangalore,Mouse,Accessories,30028.4,1,2024-09-14,Credit Card
+ORD1623,Customer_623,Male,Pune,Keyboard,Gadgets,3907.72,5,2024-09-15,Wallet
+ORD1624,Customer_624,Male,Kolkata,Smartphone,Accessories,19221.46,4,2024-09-16,Debit Card
+ORD1625,Customer_625,Male,Hyderabad,Charger,Electronics,7044.55,3,2024-09-17,Debit Card
+ORD1626,Customer_626,Male,Bangalore,Charger,Gadgets,1319.85,4,2024-09-18,Credit Card
+ORD1627,Customer_627,Male,Mumbai,Headphones,Gadgets,26374.21,5,2024-09-19,UPI
+ORD1628,Customer_628,Female, ,Camera,Gadgets,45512.29,5,2024-09-20,Wallet
+ORD1629,Customer_629,Other,Hyderabad,Camera,Gadgets,34376.21,5,2024-09-21,Credit Card
+ORD1630,Customer_630,Male,Pune,Charger,Accessories,41412.45,5,2024-09-22,Credit Card
+ORD1631,Customer_631,Female,Bangalore,Charger,Electronics,30472.8,5,2024-09-23,Debit Card
+ORD1632,Customer_632,Female,Mumbai,Laptop,Accessories,9282.4,1,2024-09-24,UPI
+ORD1633,Customer_633,Other,Hyderabad,Monitor,Electronics,45129.61,5,2024-09-25,Wallet
+ORD1634,Customer_634,Other,Pune,Headphones,Electronics,30190.78,1,2024-09-26,Wallet
+ORD1635,Customer_635,Male,Delhi,Headphones,Gadgets,43948.76,4,2024-09-27,Cash
+ORD1636,Customer_636,Other,Pune,Mouse,Gadgets,26805.78,4,2024-09-28,UPI
+ORD1637,Customer_637,Other,Kolkata,Monitor,Gadgets,37742.97,1,2024-09-29,Debit Card
+ORD1638,Customer_638,Female,Bangalore,Smartphone,Electronics,5112.9,2,2024-09-30,Cash
+ORD1639,Customer_639,Female,Chennai,Laptop,Electronics,33139.93,5,2024-10-01,Debit Card
+ORD1640,Customer_640,Female,Pune,Charger,Gadgets,45148.25,5,2024-10-02,Credit Card
+ORD1641,Customer_641,Male,Ahmedabad,Monitor,Electronics,27194.66,4,2024-10-03,Cash
+ORD1642,Customer_642,Male,Chennai,Charger,Accessories,559.41,1,2024-10-04,Debit Card
+ORD1643,,Other,Chennai,Headphones,Gadgets,,5,2024-10-05,Credit Card
+ORD1644,Customer_644,Other,Bangalore,Laptop,Accessories,34088.69,4,2024-10-06,Debit Card
+ORD1645,Customer_645,Male,Bangalore,Headphones,Accessories,21859.09,5,2024-10-07,UPI
+ORD1646,Customer_646,Male,Mumbai,Keyboard,Accessories,21323.86,1,2024-10-08,Debit Card
+ORD1647,Customer_647,Female,Kolkata,Mouse,Accessories,43803.8,2,2024-10-09,UPI
+ORD1648,Customer_648,Male,Mumbai,Mouse,Gadgets,35033.32,3,2024-10-10,Debit Card
+ORD1649,Customer_649,Male,Delhi,Camera,Accessories,21733.34,4,2024-10-11,Credit Card
+ORD1650,Customer_650,Other,Pune,Monitor,Gadgets,46951.87,4,2024-10-12,UPI
+ORD1651,Customer_651,Other,Bangalore,Charger,Gadgets,,3,2024-10-13,Wallet
+ORD1652,Customer_652,Female,Hyderabad,Camera,Accessories,38549.25,3,2024-10-14,UPI
+ORD1653,Customer_653,Male,Bangalore,Smartphone,Electronics,17850.63,4,2024-10-15,Credit Card
+ORD1654,,Other,Bangalore,Monitor,Electronics,,2,2024-10-16,UPI
+ORD1655,Customer_655,Male,Bangalore,Laptop,Accessories,,4,2024-10-17,Debit Card
+ORD1656,Customer_656,Male,Bangalore,Camera,Accessories,41940.93,3,2024-10-18,Debit Card
+ORD1657,Customer_657,Female,Ahmedabad,Headphones,Electronics,29017.98,5,2024-10-19,Wallet
+ORD1658,Customer_658,Male,Delhi,Keyboard,Gadgets,21561.73,1,2024-10-20,UPI
+ORD1659,Customer_659,Female,Hyderabad,Charger,Gadgets,13098.64,5,2024-10-21,Debit Card
+ORD1660,Customer_660,Other,Pune,Headphones,Gadgets,,2,2024-10-22,UPI
+ORD1661,Customer_661,Other,Chennai,Headphones,Gadgets,45549.23,4,2024-10-23,Cash
+ORD1662,Customer_662,Other,Ahmedabad,Smartphone,Accessories,4648.97,4,2024-10-24,Debit Card
+ORD1663,Customer_663,Other,Kolkata,Monitor,Electronics,30115.47,1,2024-10-25,UPI
+ORD1664,Customer_664,Female,Ahmedabad,Keyboard,Accessories,27414.69,5,2024-10-26,Debit Card
+ORD1665,Customer_665,Female,Chennai,Monitor,Accessories,13261.35,1,2024-10-27,Cash
+ORD1666,Customer_666,Other,Chennai,Camera,Gadgets,770.74,2,2024-10-28,Cash
+ORD1667,Customer_667,Other,Kolkata,Mouse,Electronics,37310.46,5,2024-10-29,Debit Card
+ORD1668,Customer_668,Other,Ahmedabad,Camera,Electronics,852.15,5,2024-10-30,Cash
+ORD1669,Customer_669,Female,Chennai,Monitor,Gadgets,,2,2024-10-31,Debit Card
+ORD1670,Customer_670,Other,Pune,Camera,Accessories,26228.21,4,2024-11-01,Credit Card
+ORD1671,Customer_671,Female,Ahmedabad,Headphones,Accessories,19063.98,4,2024-11-02,Wallet
+ORD1672,Customer_672,Male,Ahmedabad,Camera,Accessories,10668.23,3,2024-11-03,Credit Card
+ORD1673,Customer_673,Other,Kolkata,Camera,Electronics,40312.21,4,2024-11-04,Cash
+ORD1674,Customer_674,Female,Hyderabad,Monitor,Accessories,20737.83,1,2024-11-05,Debit Card
+ORD1675,Customer_675,Female,Hyderabad,Headphones,Accessories,5775.87,2,2024-11-06,Credit Card
+ORD1676,Customer_676,Female,Bangalore,Keyboard,Accessories,21590.54,4,2024-11-07,UPI
+ORD1677,Customer_677,Male,Chennai,Laptop,Accessories,29475.82,5,2024-11-08,UPI
+ORD1678,Customer_678,Other,Bangalore,Headphones,Accessories,13434.49,2,2024-11-09,UPI
+ORD1679,Customer_679,Female,Kolkata,Laptop,Gadgets,27037.19,4,2024-11-10,Debit Card
+ORD1680,Customer_680,Other,Delhi,Monitor,Gadgets,28451.18,1,2024-11-11,Cash
+ORD1681,Customer_681,Female,Ahmedabad,Headphones,Electronics,,3,2024-11-12,Debit Card
+ORD1682,Customer_682,Other,Pune,Smartphone,Electronics,49594.03,3,2024-11-13,Cash
+ORD1683,Customer_683,Male,Mumbai,Mouse,Electronics,20173.98,2,2024-11-14,Wallet
+ORD1684,Customer_684,Female,Mumbai,Smartphone,Accessories,10582.84,1,2024-11-15,Debit Card
+ORD1685,Customer_685,Female,Kolkata,Smartphone,Gadgets,27829.19,1,2024-11-16,Wallet
+ORD1686,Customer_686,Male,Mumbai,Monitor,Accessories,28099.35,1,2024-11-17,Debit Card
+ORD1687,Customer_687,Other,Bangalore,Charger,Accessories,9346.62,4,2024-11-18,Wallet
+ORD1688,Customer_688,Female,Kolkata,Camera,Accessories,28175.14,3,2024-11-19,Wallet
+ORD1689,Customer_689,Male,Ahmedabad,Mouse,Gadgets,24446.13,1,2024-11-20,Debit Card
+ORD1690,Customer_690,Female,Bangalore,Charger,Accessories,49431.16,5,2024-11-21,Credit Card
+ORD1691,Customer_691,Female,Hyderabad,Smartphone,Gadgets,29093.73,4,2024-11-22,UPI
+ORD1692,Customer_692,Female,Mumbai,Smartphone,Gadgets,38822.63,5,2024-11-23,Wallet
+ORD1693,Customer_693,Other,Chennai,Charger,Electronics,20207.42,5,2024-11-24,UPI
+ORD1694,Customer_694,Male,Ahmedabad,Charger,Electronics,7334.39,2,2024-11-25,Debit Card
+ORD1695,Customer_695,Male,Pune,Laptop,Accessories,43259.61,4,2024-11-26,Wallet
+ORD1696,Customer_696,Male,Delhi,Mouse,Electronics,6394.75,5,2024-11-27,UPI
+ORD1697,Customer_697,Male,Hyderabad,Camera,Accessories,11873.68,4,2024-11-28,UPI
+ORD1698,Customer_698,Female,Delhi,Charger,Gadgets,39263.91,1,2024-11-29,Cash
+ORD1699,Customer_699,Other,Hyderabad,Charger,Accessories,47487.64,2,2024-11-30,Credit Card
+ORD1700,Customer_700,Male,Pune,Laptop,Gadgets,5463.79,3,2024-12-01,UPI
+ORD1701,,Other,Chennai,Mouse,Accessories,25663.01,5,2024-12-02,Debit Card
+ORD1702,Customer_702,Male,Hyderabad,Mouse,Electronics,,2,2024-12-03,Debit Card
+ORD1703,Customer_703,Male,Mumbai,Keyboard,Gadgets,40142.26,2,2024-12-04,Cash
+ORD1704,,Female,Pune,Headphones,Electronics,,2,2024-12-05,UPI
+ORD1705,Customer_705,Female,Chennai,Headphones,Electronics,34385.94,2,2024-12-06,Wallet
+ORD1706,Customer_706,Female, ,Smartphone,Accessories,3076.61,1,2024-12-07,Debit Card
+ORD1707,Customer_707,Other,Pune,Monitor,Gadgets,19760.63,4,2024-12-08,Wallet
+ORD1708,Customer_708,Female,Mumbai,Monitor,Gadgets,31975.89,3,2024-12-09,Debit Card
+ORD1709,Customer_709,Female,Pune,Mouse,Accessories,,3,2024-12-10,Wallet
+ORD1710,Customer_710,Male,Bangalore,Camera,Electronics,,4,2024-12-11,Credit Card
+ORD1711,Customer_711,Male,Bangalore,Headphones,Gadgets,23847.6,3,2024-12-12,UPI
+ORD1712,Customer_712,Female,Delhi,Keyboard,Gadgets,30212.15,2,2024-12-13,Credit Card
+ORD1713,Customer_713,Female,Kolkata,Camera,Electronics,4862.96,1,2024-12-14,Credit Card
+ORD1714,,Other,Ahmedabad,Monitor,Electronics,13523.05,2,2024-12-15,UPI
+ORD1715,Customer_715,Other,Bangalore,Charger,Electronics,18856.34,2,2024-12-16,Wallet
+ORD1716,Customer_716,Male,Ahmedabad,Charger,Electronics,30646.93,1,2024-12-17,Credit Card
+ORD1717,Customer_717,Other,Ahmedabad,Headphones,Electronics,36362.49,5,2024-12-18,UPI
+ORD1718,Customer_718,Female,Delhi,Monitor,Electronics,46568.91,3,2024-12-19,Wallet
+ORD1719,Customer_719,Female, ,Monitor,Electronics,20331.92,1,2024-12-20,UPI
+ORD1720,Customer_720,Male,Delhi,Camera,Accessories,32980.67,4,2024-12-21,UPI
+ORD1721,Customer_721,Female,Kolkata,Smartphone,Electronics,14680.23,4,2024-12-22,Credit Card
+ORD1722,Customer_722,Female,Chennai,Keyboard,Accessories,48194.73,4,2024-12-23,UPI
+ORD1723,Customer_723,Female,Bangalore,Headphones,Gadgets,3344.42,5,2024-12-24,UPI
+ORD1724,Customer_724,Female,Hyderabad,Smartphone,Electronics,38793.62,1,2024-12-25,Debit Card
+ORD1725,Customer_725,Other,Mumbai,Monitor,Accessories,9175.92,5,2024-12-26,Credit Card
+ORD1726,Customer_726,Other,Kolkata,Headphones,Accessories,24971.23,4,2024-12-27,Wallet
+ORD1727,Customer_727,Other,Chennai,Mouse,Accessories,,2,2024-12-28,Credit Card
+ORD1728,Customer_728,Other,Kolkata,Keyboard,Gadgets,42603.1,2,2024-12-29,UPI
+ORD1729,Customer_729,Other, ,Headphones,Accessories,46572.54,5,2024-12-30,Debit Card
+ORD1730,Customer_730,Male,Delhi,Smartphone,Gadgets,26148.59,4,2024-12-31,Debit Card
+ORD1731,Customer_731,Female,Chennai,Monitor,Electronics,10139.95,4,2025-01-01,Cash
+ORD1732,Customer_732,Male,Hyderabad,Smartphone,Gadgets,39305.99,4,2025-01-02,Cash
+ORD1733,Customer_733,Female,Ahmedabad,Charger,Electronics,25772.12,4,2025-01-03,Debit Card
+ORD1734,Customer_734,Female,Mumbai,Charger,Electronics,35073.26,1,2025-01-04,Credit Card
+ORD1735,Customer_735,Female,Mumbai,Smartphone,Accessories,30951.9,5,2025-01-05,Credit Card
+ORD1736,Customer_736,Male,Ahmedabad,Charger,Accessories,33864.21,5,2025-01-06,UPI
+ORD1737,Customer_737,Female,Delhi,Charger,Gadgets,18307.13,1,2025-01-07,Cash
+ORD1738,Customer_738,Female,Chennai,Smartphone,Accessories,32923.45,2,2025-01-08,Debit Card
+ORD1739,Customer_739,Other,Bangalore,Camera,Electronics,48794.47,5,2025-01-09,UPI
+ORD1740,Customer_740,Other,Kolkata,Smartphone,Accessories,4798.72,3,2025-01-10,Wallet
+ORD1741,Customer_741,Female,Hyderabad,Smartphone,Gadgets,14158.88,5,2025-01-11,Wallet
+ORD1742,Customer_742,Other,Delhi,Camera,Gadgets,20271.97,5,2025-01-12,Credit Card
+ORD1743,Customer_743,Male,Pune,Keyboard,Accessories,33648.27,2,2025-01-13,UPI
+ORD1744,Customer_744,Female,Chennai,Smartphone,Accessories,20569.82,1,2025-01-14,UPI
+ORD1745,Customer_745,Male,Hyderabad,Smartphone,Electronics,10415.36,2,2025-01-15,Debit Card
+ORD1746,Customer_746,Other,Bangalore,Monitor,Accessories,1260.64,2,2025-01-16,UPI
+ORD1747,Customer_747,Other,Mumbai,Camera,Gadgets,35329.29,1,2025-01-17,Debit Card
+ORD1748,Customer_748,Male,Pune,Laptop,Gadgets,45999.28,3,2025-01-18,Cash
+ORD1749,Customer_749,Female,Mumbai,Monitor,Electronics,27704.84,1,2025-01-19,UPI
+ORD1750,Customer_750,Other,Delhi,Laptop,Accessories,,2,2025-01-20,Credit Card
+ORD1751,Customer_751,Other,Hyderabad,Camera,Electronics,28176.14,1,2025-01-21,Credit Card
+ORD1752,Customer_752,Other,Ahmedabad,Smartphone,Accessories,29355.15,5,2025-01-22,UPI
+ORD1753,Customer_753,Male,Delhi,Mouse,Electronics,17700.02,5,2025-01-23,Cash
+ORD1754,Customer_754,Male,Hyderabad,Charger,Electronics,40867.99,3,2025-01-24,Wallet
+ORD1755,Customer_755,Other,Pune,Camera,Gadgets,11701.63,3,2025-01-25,Credit Card
+ORD1756,Customer_756,Female,Kolkata,Charger,Electronics,48171.33,1,2025-01-26,Cash
+ORD1757,Customer_757,Male,Delhi,Camera,Electronics,,1,2025-01-27,UPI
+ORD1758,Customer_758,Female,Pune,Charger,Gadgets,20495.85,1,2025-01-28,Cash
+ORD1759,Customer_759,Male,Mumbai,Camera,Electronics,730.25,4,2025-01-29,Wallet
+ORD1760,Customer_760,Male,Pune,Camera,Gadgets,9164.22,2,2025-01-30,Wallet
+ORD1761,Customer_761,Female,Chennai,Smartphone,Electronics,25558.79,2,2025-01-31,Wallet
+ORD1762,Customer_762,Female,Mumbai,Headphones,Accessories,28152.22,3,2025-02-01,Debit Card
+ORD1763,Customer_763,Female,Pune,Laptop,Gadgets,,5,2025-02-02,Credit Card
+ORD1764,Customer_764,Male,Bangalore,Mouse,Accessories,17328.31,5,2025-02-03,Wallet
+ORD1765,Customer_765,Female,Delhi,Keyboard,Gadgets,6291.95,5,2025-02-04,Cash
+ORD1766,Customer_766,Female,Pune,Laptop,Electronics,25907.69,5,2025-02-05,Credit Card
+ORD1767,Customer_767,Female,Pune,Keyboard,Gadgets,13255.82,2,2025-02-06,Wallet
+ORD1768,Customer_768,Female,Bangalore,Mouse,Electronics,27126.22,4,2025-02-07,Cash
+ORD1769,Customer_769,Female,Ahmedabad,Keyboard,Accessories,39772.77,5,2025-02-08,Credit Card
+ORD1770,,Female,Ahmedabad,Smartphone,Electronics,12882.0,3,2025-02-09,Credit Card
+ORD1771,Customer_771,Female,Bangalore,Camera,Gadgets,22417.05,1,2025-02-10,UPI
+ORD1772,Customer_772,Male,Bangalore,Camera,Electronics,19165.47,1,2025-02-11,Cash
+ORD1773,Customer_773,Female,Mumbai,Headphones,Gadgets,,3,2025-02-12,UPI
+ORD1774,Customer_774,Male, ,Headphones,Electronics,12542.03,3,2025-02-13,Wallet
+ORD1775,Customer_775,Other,Delhi,Keyboard,Electronics,17313.21,3,2025-02-14,Credit Card
+ORD1776,Customer_776,Other,Kolkata,Monitor,Accessories,38892.14,4,2025-02-15,Cash
+ORD1777,Customer_777,Male,Chennai,Laptop,Gadgets,34238.94,1,2025-02-16,Cash
+ORD1778,Customer_778,Female,Delhi,Camera,Accessories,44877.93,4,2025-02-17,Debit Card
+ORD1779,Customer_779,Male,Chennai,Mouse,Gadgets,43170.15,5,2025-02-18,Wallet
+ORD1780,Customer_780,Other,Delhi,Charger,Gadgets,24357.52,1,2025-02-19,Credit Card
+ORD1781,Customer_781,Male,Pune,Headphones,Gadgets,13262.08,3,2025-02-20,Wallet
+ORD1782,Customer_782,Other,Kolkata,Mouse,Accessories,19442.33,4,2025-02-21,Debit Card
+ORD1783,,Male,Hyderabad,Keyboard,Accessories,,2,2025-02-22,Debit Card
+ORD1784,,Male,Ahmedabad,Laptop,Accessories,11408.92,1,2025-02-23,Cash
+ORD1785,Customer_785,Male,Kolkata,Camera,Accessories,35208.22,3,2025-02-24,Debit Card
+ORD1786,Customer_786,Male,Delhi,Keyboard,Accessories,40107.99,3,2025-02-25,Wallet
+ORD1787,Customer_787,Male,Chennai,Monitor,Accessories,20915.09,5,2025-02-26,Credit Card
+ORD1788,Customer_788,Other,Kolkata,Headphones,Electronics,17978.27,4,2025-02-27,UPI
+ORD1789,Customer_789,Male,Pune,Camera,Accessories,27014.77,5,2025-02-28,Wallet
+ORD1790,Customer_790,Male,Delhi,Headphones,Accessories,35190.52,2,2025-03-01,Debit Card
+ORD1791,Customer_791,Male,Pune,Mouse,Gadgets,13535.81,2,2025-03-02,Debit Card
+ORD1792,Customer_792,Female,Kolkata,Mouse,Gadgets,14720.83,5,2025-03-03,Cash
+ORD1793,Customer_793,Other,Mumbai,Monitor,Gadgets,20247.07,1,2025-03-04,Cash
+ORD1794,Customer_794,Male,Pune,Charger,Accessories,37565.01,1,2025-03-05,Cash
+ORD1795,Customer_795,Other,Hyderabad,Smartphone,Gadgets,17428.65,5,2025-03-06,Wallet
+ORD1796,Customer_796,Male,Hyderabad,Smartphone,Electronics,27950.3,5,2025-03-07,UPI
+ORD1797,,Female,Ahmedabad,Mouse,Electronics,9335.04,1,2025-03-08,Cash
+ORD1798,Customer_798,Other,Hyderabad,Mouse,Gadgets,16036.7,4,2025-03-09,Credit Card
+ORD1799,Customer_799,Female,Pune,Laptop,Gadgets,11319.02,5,2025-03-10,Credit Card
+ORD1800,Customer_800,Female,Bangalore,Monitor,Accessories,28898.77,3,2025-03-11,Cash
+ORD1801,Customer_801,Male,Ahmedabad,Keyboard,Gadgets,9547.83,4,2025-03-12,Cash
+ORD1802,Customer_802,Other,Ahmedabad,Smartphone,Gadgets,37434.73,5,2025-03-13,UPI
+ORD1803,Customer_803,Other,Pune,Monitor,Gadgets,46547.64,3,2025-03-14,UPI
+ORD1804,Customer_804,Other,Kolkata,Keyboard,Gadgets,9913.29,3,2025-03-15,Wallet
+ORD1805,Customer_805,Other,Mumbai,Keyboard,Accessories,36987.06,5,2025-03-16,Wallet
+ORD1806,Customer_806,Male,Hyderabad,Keyboard,Accessories,12125.64,5,2025-03-17,Credit Card
+ORD1807,Customer_807,Male,Mumbai,Headphones,Gadgets,12481.8,5,2025-03-18,UPI
+ORD1808,Customer_808,Female,Hyderabad,Smartphone,Electronics,13637.57,3,2025-03-19,Wallet
+ORD1809,Customer_809,Male,Bangalore,Charger,Accessories,11845.77,2,2025-03-20,Wallet
+ORD1810,Customer_810,Other,Kolkata,Laptop,Electronics,,5,2025-03-21,Cash
+ORD1811,Customer_811,Male,Pune,Keyboard,Accessories,41898.57,5,2025-03-22,UPI
+ORD1812,Customer_812,Female,Mumbai,Smartphone,Accessories,18123.35,4,2025-03-23,Wallet
+ORD1813,Customer_813,Other,Mumbai,Smartphone,Gadgets,39057.45,5,2025-03-24,Cash
+ORD1814,Customer_814,Other, ,Mouse,Accessories,6433.99,4,2025-03-25,Credit Card
+ORD1815,Customer_815,Female,Kolkata,Smartphone,Accessories,4385.13,4,2025-03-26,Debit Card
+ORD1816,Customer_816,Female,Kolkata,Monitor,Accessories,47811.09,2,2025-03-27,UPI
+ORD1817,Customer_817,Other,Ahmedabad,Mouse,Gadgets,24886.91,5,2025-03-28,Credit Card
+ORD1818,Customer_818,Male,Hyderabad,Charger,Gadgets,827.87,2,2025-03-29,Credit Card
+ORD1819,,Male,Bangalore,Camera,Gadgets,42925.92,3,2025-03-30,UPI
+ORD1820,Customer_820,Other,Ahmedabad,Smartphone,Accessories,47920.66,2,2025-03-31,Debit Card
+ORD1821,Customer_821,Other, ,Keyboard,Electronics,42476.52,1,2025-04-01,Cash
+ORD1822,Customer_822,Other,Ahmedabad,Charger,Electronics,18874.23,1,2025-04-02,Credit Card
+ORD1823,Customer_823,Male,Delhi,Charger,Gadgets,16113.14,1,2025-04-03,Credit Card
+ORD1824,Customer_824,Male,Pune,Camera,Electronics,44957.0,4,2025-04-04,Debit Card
+ORD1825,Customer_825,Other,Hyderabad,Headphones,Electronics,44108.87,1,2025-04-05,Cash
+ORD1826,Customer_826,Female,Kolkata,Headphones,Gadgets,28938.71,2,2025-04-06,Credit Card
+ORD1827,Customer_827,Other,Delhi,Charger,Accessories,14099.29,5,2025-04-07,Debit Card
+ORD1828,Customer_828,Other,Mumbai,Keyboard,Gadgets,9552.16,4,2025-04-08,UPI
+ORD1829,Customer_829,Male,Hyderabad,Monitor,Accessories,38330.99,4,2025-04-09,Debit Card
+ORD1830,Customer_830,Other,Pune,Camera,Gadgets,25801.11,1,2025-04-10,Debit Card
+ORD1831,Customer_831,Male,Bangalore,Camera,Electronics,20195.04,3,2025-04-11,Wallet
+ORD1832,Customer_832,Female,Delhi,Monitor,Gadgets,37633.38,3,2025-04-12,Credit Card
+ORD1833,Customer_833,Other,Bangalore,Laptop,Electronics,6848.17,5,2025-04-13,Cash
+ORD1834,Customer_834,Female,Ahmedabad,Headphones,Gadgets,26523.9,2,2025-04-14,UPI
+ORD1835,Customer_835,Other,Delhi,Camera,Accessories,21447.21,1,2025-04-15,Wallet
+ORD1836,Customer_836,Female,Bangalore,Monitor,Accessories,47012.89,2,2025-04-16,Debit Card
+ORD1837,Customer_837,Male,Mumbai,Headphones,Accessories,,3,2025-04-17,UPI
+ORD1838,Customer_838,Other, ,Charger,Accessories,17690.8,3,2025-04-18,Cash
+ORD1839,Customer_839,Other,Pune,Mouse,Accessories,43089.81,1,2025-04-19,UPI
+ORD1840,Customer_840,Female,Pune,Charger,Accessories,38907.25,3,2025-04-20,UPI
+ORD1841,Customer_841,Male,Hyderabad,Mouse,Gadgets,23131.2,3,2025-04-21,Credit Card
+ORD1842,Customer_842,Female,Delhi,Camera,Electronics,,5,2025-04-22,Cash
+ORD1843,,Female,Bangalore,Keyboard,Gadgets,26151.15,5,2025-04-23,Debit Card
+ORD1844,Customer_844,Male,Ahmedabad,Monitor,Gadgets,16124.74,3,2025-04-24,Credit Card
+ORD1845,Customer_845,Female,Pune,Keyboard,Gadgets,916.72,1,2025-04-25,Credit Card
+ORD1846,,Female,Pune,Monitor,Electronics,,1,2025-04-26,Debit Card
+ORD1847,Customer_847,Other,Ahmedabad,Smartphone,Accessories,19281.69,3,2025-04-27,Wallet
+ORD1848,Customer_848,Female,Mumbai,Camera,Gadgets,5487.02,3,2025-04-28,Cash
+ORD1849,Customer_849,Other,Bangalore,Monitor,Gadgets,18399.32,4,2025-04-29,UPI
+ORD1850,Customer_850,Male,Pune,Laptop,Electronics,43161.18,5,2025-04-30,Wallet
+ORD1851,Customer_851,Female, ,Laptop,Gadgets,9764.05,5,2025-05-01,Cash
+ORD1852,Customer_852,Male,Pune,Headphones,Gadgets,,1,2025-05-02,Cash
+ORD1853,Customer_853,Other,Kolkata,Camera,Gadgets,13835.71,2,2025-05-03,UPI
+ORD1854,Customer_854,Other,Chennai,Laptop,Accessories,,2,2025-05-04,Wallet
+ORD1855,Customer_855,Other,Mumbai,Headphones,Gadgets,17483.27,3,2025-05-05,Wallet
+ORD1856,Customer_856,Female,Delhi,Smartphone,Accessories,9603.73,3,2025-05-06,Wallet
+ORD1857,Customer_857,Other,Bangalore,Camera,Gadgets,21485.17,4,2025-05-07,UPI
+ORD1858,Customer_858,Other,Ahmedabad,Camera,Accessories,21245.1,4,2025-05-08,UPI
+ORD1859,Customer_859,Female,Hyderabad,Laptop,Electronics,37733.69,1,2025-05-09,Cash
+ORD1860,Customer_860,Female,Mumbai,Charger,Gadgets,18571.36,2,2025-05-10,Wallet
+ORD1861,Customer_861,Female,Kolkata,Mouse,Gadgets,20329.33,4,2025-05-11,Debit Card
+ORD1862,Customer_862,Other,Kolkata,Smartphone,Electronics,22811.09,2,2025-05-12,Cash
+ORD1863,Customer_863,Other,Ahmedabad,Keyboard,Accessories,28784.78,4,2025-05-13,Debit Card
+ORD1864,Customer_864,Female,Chennai,Smartphone,Electronics,48973.99,5,2025-05-14,Cash
+ORD1865,,Female,Kolkata,Keyboard,Accessories,,3,2025-05-15,Debit Card
+ORD1866,Customer_866,Male, ,Headphones,Electronics,40802.44,4,2025-05-16,UPI
+ORD1867,Customer_867,Male,Chennai,Monitor,Gadgets,36180.37,4,2025-05-17,Cash
+ORD1868,Customer_868,Female,Mumbai,Keyboard,Accessories,40302.34,1,2025-05-18,Cash
+ORD1869,Customer_869,Female,Bangalore,Headphones,Gadgets,27989.33,5,2025-05-19,Credit Card
+ORD1870,Customer_870,Male,Mumbai,Monitor,Gadgets,42887.28,3,2025-05-20,Debit Card
+ORD1871,Customer_871,Female,Ahmedabad,Smartphone,Electronics,10205.13,5,2025-05-21,Cash
+ORD1872,Customer_872,Other,Bangalore,Laptop,Gadgets,40101.85,3,2025-05-22,Cash
+ORD1873,Customer_873,Other,Ahmedabad,Charger,Accessories,37057.83,5,2025-05-23,UPI
+ORD1874,Customer_874,Other,Mumbai,Keyboard,Gadgets,23912.86,5,2025-05-24,Debit Card
+ORD1875,Customer_875,Female,Pune,Mouse,Electronics,982.24,1,2025-05-25,Wallet
+ORD1876,Customer_876,Female,Pune,Charger,Electronics,21365.27,2,2025-05-26,Debit Card
+ORD1877,Customer_877,Male,Mumbai,Headphones,Accessories,7156.35,5,2025-05-27,Wallet
+ORD1878,Customer_878,Female,Kolkata,Headphones,Electronics,44716.89,3,2025-05-28,Cash
+ORD1879,Customer_879,Female,Kolkata,Laptop,Gadgets,31717.27,3,2025-05-29,Debit Card
+ORD1880,Customer_880,Male,Bangalore,Mouse,Accessories,26932.14,1,2025-05-30,Debit Card
+ORD1881,Customer_881,Female,Bangalore,Camera,Accessories,16128.5,2,2025-05-31,Debit Card
+ORD1882,Customer_882,Male,Pune,Headphones,Accessories,24587.7,3,2025-06-01,Debit Card
+ORD1883,Customer_883,Female,Chennai,Smartphone,Accessories,12923.21,1,2025-06-02,Debit Card
+ORD1884,Customer_884,Female,Mumbai,Mouse,Accessories,42995.85,3,2025-06-03,Credit Card
+ORD1885,Customer_885,Female,Chennai,Camera,Gadgets,2861.61,4,2025-06-04,Credit Card
+ORD1886,Customer_886,Female,Bangalore,Laptop,Accessories,5399.25,5,2025-06-05,Cash
+ORD1887,Customer_887,Other,Chennai,Laptop,Accessories,8585.42,2,2025-06-06,Wallet
+ORD1888,Customer_888,Other,Ahmedabad,Monitor,Electronics,11165.63,5,2025-06-07,Debit Card
+ORD1889,Customer_889,Female,Delhi,Headphones,Accessories,,5,2025-06-08,UPI
+ORD1890,Customer_890,Other,Pune,Charger,Electronics,42029.1,4,2025-06-09,Cash
+ORD1891,Customer_891,Male,Pune,Smartphone,Gadgets,5266.94,2,2025-06-10,Cash
+ORD1892,Customer_892,Other,Ahmedabad,Camera,Gadgets,37357.36,5,2025-06-11,Debit Card
+ORD1893,,Male,Bangalore,Headphones,Gadgets,13358.57,1,2025-06-12,Debit Card
+ORD1894,Customer_894,Male,Mumbai,Mouse,Gadgets,18335.18,3,2025-06-13,Wallet
+ORD1895,Customer_895,Male,Mumbai,Charger,Electronics,28095.83,3,2025-06-14,Credit Card
+ORD1896,Customer_896,Other,Kolkata,Headphones,Accessories,40595.79,1,2025-06-15,Cash
+ORD1897,Customer_897,Female,Hyderabad,Headphones,Electronics,17534.94,3,2025-06-16,Cash
+ORD1898,Customer_898,Female,Ahmedabad,Headphones,Gadgets,20882.16,4,2025-06-17,Debit Card
+ORD1899,Customer_899,Other,Hyderabad,Monitor,Electronics,,1,2025-06-18,Cash
+ORD1900,Customer_900,Male,Hyderabad,Monitor,Gadgets,34139.5,4,2025-06-19,UPI
+ORD1901,Customer_901,Other,Mumbai,Keyboard,Accessories,30476.01,2,2025-06-20,Wallet
+ORD1902,Customer_902,Female,Bangalore,Smartphone,Gadgets,29054.26,3,2025-06-21,Debit Card
+ORD1903,Customer_903,Other,Pune,Charger,Accessories,32668.34,4,2025-06-22,Wallet
+ORD1904,Customer_904,Other,Mumbai,Smartphone,Accessories,27152.69,3,2025-06-23,Cash
+ORD1905,Customer_905,Female,Ahmedabad,Smartphone,Electronics,48978.97,2,2025-06-24,Credit Card
+ORD1906,Customer_906,Female,Ahmedabad,Headphones,Electronics,14588.13,5,2025-06-25,Credit Card
+ORD1907,Customer_907,Male,Pune,Laptop,Electronics,16591.97,3,2025-06-26,UPI
+ORD1908,Customer_908,Male,Bangalore,Smartphone,Electronics,25767.0,2,2025-06-27,UPI
+ORD1909,Customer_909,Female,Bangalore,Camera,Accessories,38849.85,1,2025-06-28,Debit Card
+ORD1910,Customer_910,Male,Bangalore,Monitor,Accessories,22623.04,3,2025-06-29,UPI
+ORD1911,Customer_911,Female,Hyderabad,Mouse,Gadgets,4381.17,1,2025-06-30,Cash
+ORD1912,Customer_912,Other,Delhi,Smartphone,Accessories,30876.36,2,2025-07-01,Debit Card
+ORD1913,Customer_913,Male,Mumbai,Charger,Electronics,23455.73,1,2025-07-02,Credit Card
+ORD1914,Customer_914,Female,Bangalore,Camera,Accessories,,4,2025-07-03,Wallet
+ORD1915,Customer_915,Other,Kolkata,Mouse,Gadgets,43478.75,5,2025-07-04,Wallet
+ORD1916,Customer_916,Other,Bangalore,Headphones,Electronics,32208.74,1,2025-07-05,Cash
+ORD1917,Customer_917,Female,Bangalore,Headphones,Electronics,46464.05,4,2025-07-06,Cash
+ORD1918,Customer_918,Female, ,Smartphone,Accessories,21379.92,5,2025-07-07,UPI
+ORD1919,Customer_919,Other,Chennai,Headphones,Accessories,30809.35,2,2025-07-08,Cash
+ORD1920,Customer_920,Other,Pune,Charger,Gadgets,20536.25,2,2025-07-09,Wallet
+ORD1921,Customer_921,Female,Kolkata,Monitor,Electronics,45400.12,3,2025-07-10,Debit Card
+ORD1922,Customer_922,Female,Mumbai,Charger,Accessories,4416.04,4,2025-07-11,Wallet
+ORD1923,Customer_923,Other,Kolkata,Monitor,Gadgets,17509.46,5,2025-07-12,UPI
+ORD1924,Customer_924,Other,Chennai,Smartphone,Electronics,16017.36,3,2025-07-13,Cash
+ORD1925,Customer_925,Female,Kolkata,Mouse,Electronics,32824.15,3,2025-07-14,Credit Card
+ORD1926,Customer_926,Female,Bangalore,Keyboard,Accessories,35666.46,2,2025-07-15,UPI
+ORD1927,Customer_927,Other,Kolkata,Headphones,Accessories,30466.56,1,2025-07-16,Credit Card
+ORD1928,Customer_928,Female,Mumbai,Mouse,Electronics,,5,2025-07-17,Debit Card
+ORD1929,Customer_929,Female,Bangalore,Keyboard,Electronics,44440.74,2,2025-07-18,Wallet
+ORD1930,Customer_930,Female,Bangalore,Laptop,Gadgets,39158.21,2,2025-07-19,Credit Card
+ORD1931,Customer_931,Female,Bangalore,Keyboard,Electronics,46969.11,1,2025-07-20,Cash
+ORD1932,,Male,Pune,Mouse,Accessories,37520.83,4,2025-07-21,Credit Card
+ORD1933,Customer_933,Male,Delhi,Mouse,Electronics,26286.32,4,2025-07-22,UPI
+ORD1934,Customer_934,Other,Delhi,Charger,Electronics,22789.29,5,2025-07-23,Wallet
+ORD1935,Customer_935,Male,Mumbai,Keyboard,Gadgets,8782.25,1,2025-07-24,Debit Card
+ORD1936,Customer_936,Female,Delhi,Laptop,Accessories,,1,2025-07-25,UPI
+ORD1937,Customer_937,Male,Kolkata,Mouse,Gadgets,6689.48,3,2025-07-26,Cash
+ORD1938,Customer_938,Other, ,Camera,Accessories,12114.05,1,2025-07-27,Credit Card
+ORD1939,Customer_939,Other,Hyderabad,Charger,Accessories,12956.53,5,2025-07-28,Cash
+ORD1940,Customer_940,Other,Delhi,Headphones,Accessories,37321.83,1,2025-07-29,Credit Card
+ORD1941,Customer_941,Male,Ahmedabad,Mouse,Accessories,37612.12,3,2025-07-30,Wallet
+ORD1942,Customer_942,Male,Kolkata,Camera,Accessories,10923.29,4,2025-07-31,Debit Card
+ORD1943,,Male,Kolkata,Headphones,Electronics,20153.76,1,2025-08-01,Wallet
+ORD1944,Customer_944,Other,Ahmedabad,Laptop,Electronics,,1,2025-08-02,Wallet
+ORD1945,Customer_945,Female, ,Monitor,Gadgets,46871.29,5,2025-08-03,Debit Card
+ORD1946,Customer_946,Female,Hyderabad,Monitor,Electronics,23922.7,3,2025-08-04,Cash
+ORD1947,Customer_947,Other,Kolkata,Smartphone,Gadgets,3164.36,1,2025-08-05,Debit Card
+ORD1948,Customer_948,Other,Ahmedabad,Charger,Accessories,38661.22,5,2025-08-06,Credit Card
+ORD1949,Customer_949,Other,Mumbai,Charger,Electronics,26437.15,3,2025-08-07,Credit Card
+ORD1950,Customer_950,Other,Delhi,Monitor,Accessories,49802.68,2,2025-08-08,Wallet
+ORD1951,Customer_951,Female,Bangalore,Smartphone,Gadgets,5644.46,3,2025-08-09,UPI
+ORD1952,Customer_952,Male,Ahmedabad,Camera,Electronics,31096.06,2,2025-08-10,Credit Card
+ORD1953,Customer_953,Male,Hyderabad,Headphones,Electronics,4673.41,2,2025-08-11,Wallet
+ORD1954,Customer_954,Female,Ahmedabad,Laptop,Gadgets,46613.68,3,2025-08-12,UPI
+ORD1955,Customer_955,Male,Ahmedabad,Headphones,Electronics,19797.39,3,2025-08-13,Debit Card
+ORD1956,Customer_956,Female,Chennai,Laptop,Gadgets,11853.12,5,2025-08-14,UPI
+ORD1957,Customer_957,Male,Pune,Keyboard,Gadgets,37010.86,3,2025-08-15,Cash
+ORD1958,,Female,Bangalore,Mouse,Electronics,22436.44,4,2025-08-16,Wallet
+ORD1959,Customer_959,Male,Pune,Laptop,Electronics,,1,2025-08-17,Wallet
+ORD1960,Customer_960,Other,Pune,Laptop,Gadgets,26573.75,3,2025-08-18,Wallet
+ORD1961,Customer_961,Other,Pune,Charger,Accessories,8945.1,2,2025-08-19,Credit Card
+ORD1962,Customer_962,Male,Hyderabad,Keyboard,Accessories,2240.17,2,2025-08-20,Cash
+ORD1963,Customer_963,Female,Bangalore,Charger,Electronics,18163.64,3,2025-08-21,UPI
+ORD1964,Customer_964,Male,Pune,Charger,Electronics,45805.98,1,2025-08-22,Debit Card
+ORD1965,Customer_965,Male,Mumbai,Charger,Accessories,43279.94,1,2025-08-23,UPI
+ORD1966,Customer_966,Other,Pune,Headphones,Gadgets,23626.08,5,2025-08-24,Cash
+ORD1967,Customer_967,Female,Chennai,Smartphone,Gadgets,43609.46,5,2025-08-25,UPI
+ORD1968,Customer_968,Other,Ahmedabad,Keyboard,Accessories,46775.45,5,2025-08-26,Cash
+ORD1969,Customer_969,Male,Mumbai,Headphones,Electronics,27652.99,1,2025-08-27,Credit Card
+ORD1970,Customer_970,Other,Kolkata,Keyboard,Electronics,7188.19,2,2025-08-28,Cash
+ORD1971,Customer_971,Female,Ahmedabad,Headphones,Electronics,47450.06,5,2025-08-29,Cash
+ORD1972,Customer_972,Male,Chennai,Mouse,Accessories,27194.73,3,2025-08-30,Cash
+ORD1973,Customer_973,Male,Bangalore,Smartphone,Accessories,29746.13,5,2025-08-31,Cash
+ORD1974,Customer_974,Other,Mumbai,Monitor,Accessories,23098.9,3,2025-09-01,UPI
+ORD1975,Customer_975,Female, ,Charger,Gadgets,,3,2025-09-02,Wallet
+ORD1976,Customer_976,Female,Kolkata,Headphones,Gadgets,43926.04,2,2025-09-03,Credit Card
+ORD1977,Customer_977,Female,Hyderabad,Keyboard,Gadgets,22031.38,3,2025-09-04,Debit Card
+ORD1978,Customer_978,Female,Hyderabad,Charger,Gadgets,32169.43,5,2025-09-05,UPI
+ORD1979,Customer_979,Female,Chennai,Mouse,Accessories,26922.31,2,2025-09-06,UPI
+ORD1980,Customer_980,Male,Bangalore,Laptop,Accessories,45491.7,2,2025-09-07,UPI
+ORD1981,Customer_981,Male,Pune,Mouse,Gadgets,24341.76,1,2025-09-08,Cash
+ORD1982,Customer_982,Female,Pune,Headphones,Electronics,11742.86,3,2025-09-09,Debit Card
+ORD1983,Customer_983,Female,Chennai,Charger,Accessories,4932.92,5,2025-09-10,UPI
+ORD1984,Customer_984,Male,Bangalore,Headphones,Accessories,15739.48,3,2025-09-11,UPI
+ORD1985,Customer_985,Male,Ahmedabad,Camera,Accessories,20904.09,5,2025-09-12,Debit Card
+ORD1986,Customer_986,Female,Ahmedabad,Laptop,Electronics,8208.02,4,2025-09-13,Wallet
+ORD1987,Customer_987,Female,Ahmedabad,Keyboard,Electronics,1022.51,1,2025-09-14,Wallet
+ORD1988,Customer_988,Male,Kolkata,Smartphone,Accessories,,2,2025-09-15,Credit Card
+ORD1989,Customer_989,Other,Ahmedabad,Headphones,Electronics,38035.53,1,2025-09-16,Debit Card
+ORD1990,Customer_990,Other,Delhi,Laptop,Electronics,7246.87,4,2025-09-17,Debit Card
+ORD1991,Customer_991,Other,Mumbai,Smartphone,Electronics,14694.73,1,2025-09-18,Cash
+ORD1992,Customer_992,Male,Hyderabad,Laptop,Gadgets,26987.39,1,2025-09-19,UPI
+ORD1993,Customer_993,Male,Ahmedabad,Smartphone,Electronics,34544.61,4,2025-09-20,Wallet
+ORD1994,Customer_994,Male,Chennai,Camera,Electronics,24850.62,1,2025-09-21,Cash
+ORD1995,Customer_995,Other,Chennai,Monitor,Gadgets,37895.9,1,2025-09-22,Credit Card
+ORD1996,Customer_996,Female,Pune,Keyboard,Electronics,,4,2025-09-23,Wallet
+ORD1997,Customer_997,Male,Delhi,Smartphone,Gadgets,,4,2025-09-24,UPI
+ORD1998,Customer_998,Male,Delhi,Monitor,Gadgets,39999.26,2,2025-09-25,Credit Card
+ORD1999,Customer_999,Male,Kolkata,Smartphone,Electronics,30051.69,5,2025-09-26,Credit Card
